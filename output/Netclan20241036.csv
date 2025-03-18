@@ -1,0 +1,85 @@
+PowerBI REST API – Fetching Dataflow and Refresh Schedules with semantic models
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading IT & tech firm in the USA
+Industry Type: IT
+"Products & Services: IT Consulting, IT Support, SaaS"
+Organization Size: 200+
+The Problem
+"Our client, a large enterprise, faced significant challenges in managing their Power BI dataflows, datasets, and refresh schedules across multiple workspaces. The manual processes were time-consuming, error-prone, and lacked real-time monitoring capabilities. They needed an automated solution to streamline these tasks, ensure data accuracy, and improve overall efficiency."
+Our Solution
+"We developed an automated system using Python that integrated with the Power BI API to manage and monitor dataflows, datasets, and their refresh schedules. The solution provided a comprehensive overview of all workspaces, datasets, and dataflows, including detailed transaction data and refresh schedules. This system allowed the client to efficiently track and manage their Power BI environment, reducing manual effort and improving data reliability."
+Solution Architecture
+Data Retrieval:
+"Utilized the Power BI API to fetch dataflow transactions, datasets, and refresh schedules."
+Employed MSAL for secure authentication and authorization.
+Data Processing:
+Processed and transformed the retrieved data using Pandas.
+Consolidated data from multiple sources into a single Excel file with multiple sheets.
+Data Storage:
+"Stored processed data in an Excel file, ensuring easy access and further analysis."
+Deliverables
+Python script for automated dataflow and dataset management.
+"Comprehensive Excel file with detailed information on dataflows, datasets, and refresh schedules."
+Documentation and user guide for the solution.
+Tech Stack
+What are the technical Challenges Faced during Project Execution
+Authentication Issues: Ensuring secure and reliable authentication with Power BI API.
+API Rate Limits: Handling Power BI API rate limits and managing large volumes of data.
+Data Consistency: Ensuring data consistency and accuracy across multiple API calls and processing steps.
+Excel File Management: Efficiently managing and updating large Excel files with multiple sheets.
+How the Technical Challenges were Solved
+Authentication Issues:
+Implemented MSAL for secure authentication and handled token expiration and refresh seamlessly.
+API Rate Limits:
+Implemented retry logic and rate limit handling to manage API call limits and ensure data retrieval without interruptions.
+Data Consistency:
+Used Pandas for efficient data processing and ensured data consistency through rigorous testing and validation steps.
+Excel File Management:
+Utilized Openpyxl for efficient Excel file operations and implemented logic to avoid data duplication and ensure accurate updates.
+Business Impact
+"The automated system significantly reduced the manual effort required for managing Power BI dataflows and datasets. It improved data accuracy, provided real-time monitoring capabilities, and allowed the client to focus on data analysis and decision-making rather than data management. The solution also enhanced overall operational efficiency and reliability."
+Project Snapshots
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXfTFaHmLC5UtAmeJKiRz93VqKBUlBtqGAcmEpoX7BxW3oaW0D_XmGUbWCX-k5MEfSBF4tHaPwnZiaOaWKbyS0MlkJirpAyBZdBUxEegppg4h8O4bdZBPLBa2VYtwVOAuJyR8aTaulm4XLOwO4UAFukTY0IUZLONoQKYBixK_bzUeC3FvZLJ9Q?key=Jrq9eJTq91uracN8LBgE7g
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLPOzTIV-PA77pb7ChC7Kzk3p7kETB4X9fdkJCRTmqRkwXTAyFWu1S4HVTfhnYqDiinzW3uYih0rE0PHWkJr9hivacwtDGln1dxYfCRxOBWydjlO-3PO-L7R_lvZcf5pLmsl2bC-ac401ahKK0SEW5ANWPRt7qVNKPRXSN5dJCiyp6-lgjpg?key=Jrq9eJTq91uracN8LBgE7g
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYlsl0HmN3GTdKr7eq3IZ11DCJ4CUdk96RFCcCuyC_YX3GpRhPBSDl1xVeMjMoB3oC9Q763KLmNJcNl9i-GbRdNIDO85liE9c22xD1rRnXue4OZ8LOybPjQNr0xW00SkRLYuaER41cmx6I9oLa6qXOcyfdMq_Em-1Qeh6bOeTN0wxuuCTP3g?key=Jrq9eJTq91uracN8LBgE7g
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoBONCMyjjVOOdDKJUyqAjUuhfgkwZ2dkXy5NKPFIcDMOzMDkPQaAkk8W6-67JgoGcFWkWSexMtuYQU3OVKdJR3W8kmSmpjU4sG8tlvuJjRGekiPdY0jQMNuXFAA-SWNAlvkTT5uY6oJdrrB2vqN9E3-_Uj6_9HHnF5ba-kwOR6t0cdCHpprU?key=Jrq9eJTq91uracN8LBgE7g
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8kcq5nNR2CU6KdH32WkuzJksKT0QKsc-Ov6GbsNijDgzGX8qUiPipFSCTd1GHYb98NAs-kQsCSkHCB9Erf7-fuH4mihgDly-mLQoYwkhAYdfUeQEOs3RyxXwxPK04iYnisoI-EuI04S7LAUmNYpaJOITfVcpJrC8LqNVThGzdpwAveEsRSVg?key=Jrq9eJTq91uracN8LBgE7g
+Project website url
+https://colab.research.google.com/drive/1lcsMt9v8_apAwuhxCqsNkrOgrVTdnWjO?usp=sharing
+https://www.loom.com/share/361634e2bb014c7f9f3fd8a3fa668d62?sid=e5fa482e-2061-4195-ac7d-c9c502bc4424
+Summarize
+Summarized: https://blackcoffer.com/
+"This project was done by the Blackcoffer Team, a Global IT Consulting firm."
+Contact Details
+"This solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy"
+"Utilized the Power BI API to fetch dataflow transactions, datasets, and refresh schedules."
+Employed MSAL for secure authentication and authorization.
+Processed and transformed the retrieved data using Pandas.
+Consolidated data from multiple sources into a single Excel file with multiple sheets.
+"Stored processed data in an Excel file, ensuring easy access and further analysis."
+Python script for automated dataflow and dataset management.
+"Comprehensive Excel file with detailed information on dataflows, datasets, and refresh schedules."
+Documentation and user guide for the solution.
+Python: Primary programming language.
+Power BI API: For interacting with Power BI services.
+MSAL: For authentication and authorization.
+Pandas: For data processing.
+Requests: For making API calls.
+Openpyxl: For Excel file operations.
+Python scripting
+API integration
+Data processing and transformation
+Exception handling and logging
+None (as this project focused on data management rather than predictive modeling)
+API integration
+Data processing with Pandas
+Excel file manipulation
+Authentication and authorization using MSAL
+None (data was processed and stored in Excel files)
+Power BI service
+Implemented MSAL for secure authentication and handled token expiration and refresh seamlessly.
+Implemented retry logic and rate limit handling to manage API call limits and ensure data retrieval without interruptions.
+Used Pandas for efficient data processing and ensured data consistency through rigorous testing and validation steps.
+Utilized Openpyxl for efficient Excel file operations and implemented logic to avoid data duplication and ensure accurate updates.

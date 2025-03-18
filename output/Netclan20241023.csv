@@ -1,0 +1,69 @@
+Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard Accuracy in Partner Hospital Application
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading hospital chain in the USA
+Industry Type: Healthcare
+Products & Services: Healthcare solutions
+Organization Size: 200+
+The Problem
+"Build a web application. Develop , deploy and maintain the system in the background, and there will be more hospitals partnering with our organization utilizing this tool per our service offering, which could lead to long-term working contracts with us, if interested."
+"The current project is a HIPPA-compliant SPA Web Application that will interface with hospital data dashboards involving discharged patients. Call-Navigator utilizes an SFTP server that is hosted in AWS, this allows our partner hospital to store patient discharge files directly to an S3 bucket."
+"The application and dashboard are currently up and running and pulling information and data from our partner hospital. However, the project was rushed through initial development and there are several front-end features that need to be addressed (or fine-tuned/upgraded) and functions added (search/flag options and redirection) to make the application more user-friendly (dashboard accuracy). There are deliverables such as reporting that is part of the project scope that was not developed but are considered a priority after the features and functionality are improved."
+"According to the OG developer, a GitHub account for our organization will need to be created and code uploaded to two separate projects – one for backend and one for frontend."
+Let me know if this project would be something you would like to further discuss. Thank you so much for your time and consideration.
+More information from the OG developer follows:
+Developer should specifically know (or be able to learn) these specific AWS features since they will be responsible for deployment and maintaining the system.
+"For deployment, the developer must:"
+" modify AWS security groups and target groups, etc…"
+ push code to product **DO NOT REMOVE OG DEVELOPER ACCESS/NETWORK CONNECTION**
+"Currently, there are GitHub actions created that will deploy the code if you set up the proper secrets, GitHub actions on FE/Angular app with deploy code to our static S3 website as well as creations invalidations for CloudFront that bypasses the caching. An ssh config link and key file are available."
+"Need to be able to pull reports on call info by unit, by caller, by diagnosis, physician or across the hospital, specifically on flags for medications, conditions, ect."
+– Flags and marked issues also need to be represented on the Facility Dashboard page.
+– Automate the import process of file from hospital.
+– Set up or ability to set up Hospital employees to log in with their Blessing Credentials (single sign on).
+"– Flags thrown need to show up somewhere in Call Navigator and also be able to go into them and view patients and issues. Right now, the only notification and way to view this is strictly through email."
+– Ability to hover over icons on Facility Dashboard and see info and be able to click on info and have a page with that info pop up.
+"– On the Discharge tab, when setting a filter, we want that filter to stay set unless we change it. Right now, if you set a filter and then go into a patient, when you come back out, the filter is not set anymore and you have to set all over again."
+Our Solution
+"– Need to be able to pull reports on call info by unit, by caller, by diagnosis, physician or across the hospital, specifically on flags for medications, conditions, ect."
+– Flags and marked issues also need to be represented on the Facility Dashboard page.
+– Automate the import process of file from hospital.
+– Set up or ability to set up Hospital employees to log in with their Blessing Credentials (single sign on).
+"– Flags thrown need to show up somewhere in Call Navigator and also be able to go into them and view patients and issues. Right now, the only notification and way to view this is strictly through email."
+– Ability to hover over icons on Facility Dashboard and see info and be able to click on info and have a page with that info pop up.
+"– On the Discharge tab, when setting a filter, we want that filter to stay set unless we change it. Right now, if you set a filter and then go into a patient, when you come back out, the filter is not set anymore and you have to set all over again."
+"Also, let me know if there is a “scope of project” document that we need to complete to help you and your team develop a project plan and timeline."
+"Hopefully, with the above notes and attached files, you’ll be able to put together a project plan and proposal for this project."
+Deliverables
+Fully functional application product
+Maintenance and support
+Tech Stack
+Tools used
+VS Code
+Language/techniques used
+Angular
+Node.js
+Express.js
+Databases used
+MySQL
+Web Cloud Servers used
+AWS
+Project Snapshots
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXeuo4Dqpei5B1g-zv53NNm3KZy-7YgZXk_pl8l_QgePK11EJ5rt_URVjeLDSdSwNuNPkXOV1A0-EmdMgsbLXAZ_p23Oy9_fwUk90lwKLahaWIvkUwXFkFpSquqJKK23iRCQFu7eWsOZO4P-dtC0AdOXA7QZwOFjr9mwg1ntro5l7qFKBGExI1A?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_4_cezoGBgwFmrq8EQnwNvCvk_l7ICBz0I0RuFl8ALBPIrsIzsFS2X5Fx9xj0HE0Rxa6W-xVzTDoDF6kDn18N8_d4PmRYv2hFfxc-N2TXV4FPtHgKWWk965sLhlzIvEJe0rcejK8bc9eizuWBlm6m6C6_N2oOr9yGHNp2vowA2xBFG0U3zrI?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8_rShVgJcQWZ3ROhyNrRkjmbnbfcSqvFKycptlkv1pkZAJRdfgEXvuUFBtnemZHxbykiudrCwt3P3nxkEDZVw3wJgN4mG8mCAROdSpSjRem0juv9wjVxQJ0LcMJ1h-DXNo930s9-2cocOzgQaCFP1I_yGOpLIllQgkGoamxopGCL9tLwg_GI?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXcrvNTKTHjg66SXDfD9S83IiKNaa6wDg-vGm5F8sABG_pA_hREZfY0W_inP5o4dN2QS4LqHh9JS0Q0nlKB6vP29Yf3XZpCzvUhVdyHlbosPUFh4dnh46oK3_8ncmvzuuUKESQ4SfWi1dUwmAfFRvUMpT9Xp-N5QQ09yo0j5v4H90zMt4kRtCm8?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXeq1pDrE9UMgbX2byHlcKUzdTXcnJjbh0cb9eq8BhcZVjMFq0zf13ZXtVbjItRCxia2oPzJHfj-FJzLParylXZppzWrIRyWmasNToly5sYkOk4c53LuQJaPPl0aHtfMVxbZzWjIQyQl4wf6ck9eB_5ld1Eo6rPdMNqGLuYb7XnZtxn-IhFmVys?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3VDO8zc50UlZ9bkE3PMzkMwbZGSWPNl7eWYL8F9zVSegyv8DsUUGgjoAaCPdY793LedO7KKlWgeHe5rXHh6XnKKQrEGNAHA5tdP5r7GPErrfLdabf3VSf2TgvTG966sAFdEYkO2YDRZs_EZWNWrB3BX4Zv_hPBeFgBJc7nzh_a4LRE_8Rqkg?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXd5ayjU4npsdTLMQaGM57VlxicstM9SD2M7XDrguH9nV5cuqjC6LNHFVqAs7ZM6HodmO3UX8TNX3sn6qvSwOaU-euUPCBictm0kA-FsWQWWCpjd6u-p3JQih6ljnnTSyUTob4A17ouCaAB6SypARqwCtu7VQNWCCrtIOVeDYSZ5WwnPfXqcGKI?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0gByVvh_uc_t3cirWcjDw8WbaRSh6k_Dx1VkBWcyGtgKYvYF6F-zGRqdugVwiQgmf9YVAl3xJkfiNRMcJWRz1EcZorqCUfSCRC10lws2ettYjnw9OvIK_sDmYkZOU5JIRIV4c9Ci0P6KzNQvCnFGpTAWfhYvbILcU2-3_QLJns41APGSRKmw?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbyHJlP-cs6KjpFiY1HKJoBOpUwcykxqdib2vxFrbi6i5q30CSoM5JnK1ccZKVx2zRGbGPUk2E7r7pWJe8m3bx98GIYjogIZNtkMQ1Z4X54yIakkLNI1Uh464vVxw-dbLOMKnRiqPcByaC5DT1FzJQ5aoYlKHgdpn3orLctnxI7qVk3TPqdtA?key=1z7yBghDuI9zEJAhL2WwpA
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwx1SDBMDA0q6MSXpeejA851UjT7laXdCu4WpKfjcFJCGhFzLhkuHXAZP0a20VM_Z-taOxt9e-lEkEOfQ81Utc6syFuZY5CHe7Bx7ol_jSuN4FFzEAA4IiOqPAA-UmgTXhPwSDmG9n7vbVDZZjmp3ieY5D9TFYgxF-0eqCvNYjzH7MuXQusQo?key=1z7yBghDuI9zEJAhL2WwpA
+Project website url
+https://callsnavigator.com
+Summarize
+Summarized: https://blackcoffer.com/
+"This project was done by the Blackcoffer Team, a Global IT Consulting firm."
+Contact Details
+"This solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy"

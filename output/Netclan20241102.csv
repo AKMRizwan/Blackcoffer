@@ -1,0 +1,43 @@
+Design & develop an app in retool which shows the progress of the added video
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A Leading Tech Firm in the USA
+Industry Type: IT & Consulting
+"Services: Software, Business Solutions, Consulting"
+Organization Size: 200+
+""
+Project Description
+The objective was to develop a progress bar that can help costumes to estimate the analytics of the video.
+Our Solution
+The client wanted a progress bar with the following filters:Date filter: – Update the progress bar and count of the videos according to the date selectedCategory filter: – Update the progress bar and the count of the videos according to the selected category
+Date filter: – Update the progress bar and count of the videos according to the date selected
+Category filter: – Update the progress bar and the count of the videos according to the selected category
+We have created a SQL query for getting a count of the videos from the full video table according to the filter selected in the app
+In added video table some columns were missing to solve this we created a SQL query for joining the added video table to the other tables and return the count of the video according to the filter selected
+Project Deliverables
+App in retool
+Tools used
+Retool
+Language/techniques used
+SQL
+Skills used
+SQL
+Databases used
+SQL Database
+What are the technical Challenges Faced during Project Execution
+Client wanted date filter and a video category filter but this data was not there in added video table
+How the Technical Challenges were Solved
+We had to join multiple data so that we can get category column and date column for applying filter
+Project Snapshots
+https://lh5.googleusercontent.com/q1CP3qsSqpsFs_PZRQQw9BDr-yW_FDqU24-bQ9TQ-Hw1h1NuGNDOdyFawrp-iVRg3P8Qab-v8XTKeCpwnFDNC5M7Q_b6_SaXbym21PxRR5W0Hndfm6NK9uKJXhQ6UISs_rnZhxpUzolBJkjNO2UQmw
+https://lh6.googleusercontent.com/oLzHz7J83TFvNvE8wpIAybOBdDYW1vWU4Q67Rc5vJ8t0Dnan615O4rN0ao7LHkIhlIwHTHs0I45fFpilsEXGV3Yvz11jooYmJc2s_FxoHn0fcvar_Wg_z7KOViXhbtQfWgL--myW82Bvg8_vsNrX3g
+https://lh3.googleusercontent.com/PRf2Z9oD0NUlaJm-1X6JmyeT8JuyokhlMoeLP6VtuS7nxWS-PCvrUXzRC45oSCCrWOVY9z6feX-Rrjj-YBlI4LtnT7HyXNKUrz77OPUAptesgCpCCJbHpycV_GV9hnE9szfSi7vc701H0xxAK3rsqA
+https://lh4.googleusercontent.com/Gnms7jpN-DxapSx4MO1Za85Hf2ov6re3gCw9YxkIlAuFpPtw-YA8fYelRIi1pYqK8UC7O_NkXBeZsOLR7agYsRWX2syjpfNtN82N36CJh3t5nXvGAvx4DOy-FjZuvOCBVAUEIh3sS17LzAUi7ilIpA
+Project Video
+https://www.youtube.com/embed/VwiyrVwAtgA?feature=oembed&enablejsapi=1
+The client wanted a progress bar with the following filters:Date filter: – Update the progress bar and count of the videos according to the date selectedCategory filter: – Update the progress bar and the count of the videos according to the selected category
+Date filter: – Update the progress bar and count of the videos according to the date selected
+Category filter: – Update the progress bar and the count of the videos according to the selected category
+We have created a SQL query for getting a count of the videos from the full video table according to the filter selected in the app
+In added video table some columns were missing to solve this we created a SQL query for joining the added video table to the other tables and return the count of the video according to the filter selected

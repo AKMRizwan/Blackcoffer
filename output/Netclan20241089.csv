@@ -1,0 +1,47 @@
+"Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc."
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A Leading Trading Firm in the USA
+Industry Type: Finance
+"Services: Trading, Consulting, Software"
+Organization Size: 100+
+The Problem
+"A Trading site will have all the required features, allowing users to trade in multiple commodities markets, like Forex, Agriculture, Metals, Energy etc."
+Our Solution
+"Designed the website with technical indicators, and the ability to trade in live market, plus allows the user to create his/her own strategy to backtest. Functionalities like all types of technical indicators:"
+Trend following
+mean reversion
+relative strength
+volume
+momentum.
+"Strategies are specific scripts, which are able to send, modify, execute, and cancel buy or sell orders and simulate real trading right on your chart. Backtesting is the process of recreating the work of your strategies on historical data, essentially all of your past strategic work. Forward testing allows for the recreation of your strategy work in real time, all while your charts refresh their data."
+Solution Architecture
+https://lh3.googleusercontent.com/xUABOeOe97Ek7Kw-crawRBNbantI3WP0-y5gsU3AAs-jfj0UanrQLxARb9l9vfmBiCVIKRXlKQopitmadm2chKyEHT3CLgbZxlEONnbItgow8_ls4izQr2RY2f0NX_RXaKYxwsE1gFTO6zVSFh29x073I2n8QVcCO_72j0hyII3vmVQ1Q1pFsiqEcMHy52kIg0dUIq9ogg
+Deliverables
+"A Fully functional trading platform that lets you customize technical indicators, create charts, and analyse financial assets. These indicators are patterns, lines, and shapes that millions of traders use every day. Platform designed is entirely browser-based, with no need to download a client. Allowing the user to use all types of indicators:"
+Trend following
+mean reversion
+relative strength
+volume
+momentum.
+Tools used
+Numpy
+pandas
+Language/techniques used
+Python
+Business Impact
+"Clients want a social media network, analysis platform, and mobile app for traders and investors. So we designed a website with all the client’s requirements, where traders, investors, educators, and market enthusiasts can connect to share ideas and talk about the market. By actively participating in community engagement and conversation, you can accelerate your growth as a trader, and your ability to trade in the live market, plus allows the user to create his/her own strategy to backtest. A Fully functional trading platform that lets you customize technical indicators, create charts and analyze financial assets. These indicators are patterns, lines, and shapes that millions of traders use every day. Platform designed is entirely browser-based, with no need to download a client. Allowing the user to use all types of indicators"
+Project Snapshots
+https://lh6.googleusercontent.com/uj4B0UUL8bCupT79H4EM5NB-nFUuYYMJ4C-sqHV5pva2_5WImAcSCdIoiq4T_pKQRCboEX9_7WeXFedx8m71N9u5QwBB-okz0n4qOgYHKn2dSUpwmbwL9qPv861ypbAbzQ4y8JyzDUdUk11EvyJKmXblsuY6SB3D6V1lZZklOz3Tm_qqU7HSo05wNrnYYEfG4JPnkJlnmw
+https://lh3.googleusercontent.com/4kmyDEcJF6kblMkN4FMzduqVmkElqa0k4J-l--V005cks5A4-r_we9xxDkeyuZcbqoFpCSdgzwkolh2VroTLo9cJ3OwOR_bCao0KtJfKIx8HQ03Hq99Jh8NKp1cPzEAJawyWNpYBB3sIX0IxSmhj1yeH8uponUX6SkUpa7xl45xG2vzjral0CfK9-iCTZr_p7XIFF_Knyg
+Trend following
+mean reversion
+relative strength
+volume
+momentum.
+Trend following
+mean reversion
+relative strength
+volume
+momentum.

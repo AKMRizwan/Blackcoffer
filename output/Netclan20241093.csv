@@ -1,0 +1,49 @@
+Design & Develop BERT Question Answering model explanations with visualization
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A Leading Tech Firm in the USA
+Industry Type: IT Consulting
+"Services: Software, Consulting"
+Organization Size: 100+
+Project Description
+"We need to use a pre-trained bert question answering model and create a notebook that has explanations of model’s working with some visuals of bertviz, allennlp and gradient values."
+Our Solution
+We created a notebook first and explained the model with model view and head view visuals of bertviz library. It gives similarity between words so we can easily find related words.
+We used the allennlp library and created bar charts and heatmaps to show higher and lower attention words. It means when it finds question related words in the context it gives higher value to those words and if words are not related it gives lower values.
+We used a gradient based method to show higher and lower gradient values word according to question text and created bar charts and text color charts to show higher gradient values.
+Project Deliverables
+A notebook which has an explanation of the bert question answering model using some visualization.
+Tools used
+"Google colab notebooks, Tensorflow, Bertviz, Allennlp, Transformers"
+Language/techniques used
+"Python programming language, Deep learning, NLP, Data Visualization"
+Models used
+Pretrained bert-base-uncased model and distilbert model (both trained on squad2 dataset)
+Skills used
+"Data visualization, Deep learning, NLP, python"
+What are the technical Challenges Faced during Project Execution
+We need to use the best pre-trained model which can give good results on different questions and answers.
+We were working on text data so we need to use charts which can clearly show differences between higher attention and lower attention value words.
+How the Technical Challenges were Solved
+"For best pretrained we tried different Bert’s pretrained models like distilbert(trained on squad dataset), distilbert(trained on squad2), bert base uncased, bert large and roberta base."
+Among these models we kept the best one.
+"For solving charts related issues we used heatmap chart, bar chart with dark and light colors and text coloring method."
+Project Snapshots
+https://lh6.googleusercontent.com/vbyKzGvwAjxYyglwCi2DNZEc-zDYj8_F1XmzM_dMWvuGaZt4I4GKAscpqyOChKHRJYDF-z334TnZ8JyvqRXRiEsva2HdVHfyjW2U78WXaToGk0uzVB2vxHagHr8IIq_ZcbmyAFSnXGbo5gaZVGuK4mBmFp9G9xldbdJCpiLbqnd0CyoYsubG__tYD2fnDyHe07RcvA
+https://lh4.googleusercontent.com/LEiOMCElq4zc-fXkFKcG9PitbUBZB_HiKK3Vmvv0VDquv1senW-MiOQU2rkO1pdcE81klHdhsxkgPuO3jLG0rkaT7m5vOa3ObYu9G16QBLMcbgQWS1KZLCxHNuhZHg1nlZ2FTTsvOMQm_zJouo1UlUu50J5WGS5xG3vMluFARj0fBlE-UgDS0ou8cR3hjMkmszLCDA
+https://lh5.googleusercontent.com/FcaAqYuHVA3T_t5Rg9tIVZDbqySkypCRDG5tkeE5rapqJA-7b8tbTgl5PdBjoMv6yeCmnnDisHFYSBMKQZvL2sMCcdkCSP4fmbq9eJllyPtSj1v5XYNt4-WgQ-IEtqczywPAmabaBR_pKuoUo3fHyjzIoWELKoAbDj7L8IS4RXHOoKN_xiT6oFQ0HMMWGfabj9SYRQ
+https://lh6.googleusercontent.com/q0LC9v-3wYZw8RkH6vTEYOqltLhqkad-cXYCAK88svwNDb3Y-Uzqit_tGLTiRtqMN_64aRn9yZWur6sNlVSpqZv8fobC94UkyJrveytuIsh7Y1YaIJxNnugFWTwULas9bdb2P6puQB5FtmmNHgWc4e-0L5GTe0uM6j8Cb7WciBPtmZllddtIme4cJ-R0TFd6QWv8uQ
+https://lh5.googleusercontent.com/T1C0wsr55Qg7Z6cRZeND7eh77SSAU2HAKrTVBXjSJHSGSY5OyRN6-MCcL1bK7YorsL96TFT1lFo7xeaQXtWTEBLS4At1PvyEWjSU50It4CZunITPYzHvBCgYP9fT914KIZP_vbq2xCmfrEV9wrjg96AiI0udJ4W_h2mWLRrYI5E4xc9Cgil32omXrCh_FHBuCYwOfA
+https://lh5.googleusercontent.com/tazSffHeuECdeVOjRWl2LQSsmggI9Ow2WIxlSTfW0clbKaM7U5bZia3fQVePS0_41Etdc9U7fP-CYmtuHD9S6i9xTsTcQm_01pG-yYxSJU3i6HnxXdT9g7sQBYKBezRBb_0mqfQugyH_lL9jqgdDoWM9W6kKZbeXGiOCelQTlh1oUURwI8cVh4QLOnt8vHb-NArexw
+https://lh4.googleusercontent.com/Vjr2Xltx-lCoJ_FXrrDKbcE0jAOhQNoglcpyPozxU2nGlkpNfw4A9RQCuJsi00T42YgBTjeYwbdufsySJGq_pKrAysI9HsrbsSdBZvmeuUnoWeVOYZqeYIB2TnSBmEoroL-EmQASO9EmBs5JHdQgCN0qUX0Ayx7MNseVEvMuzhTEEAykU-qBKE0uXakTaiifMretgA
+https://lh5.googleusercontent.com/6a_V1YemGjD6Jsu1F_oriCZmYhtGFsIvSjkgJcU0Xii9cBK2s5-mFj0fKPfSbS7xyzOIdbooLMVSPYaUxjIImmp3o5ia4iiytYhQvdqufnVSU0CbJUpBS0STSJz4csjOPPHZ98gc2N8L21BDo4KDJTreHHP3eMpY7Wsrkhtgmxh4iCUdEKNawM-baSn9fd9kmx3q4A
+https://lh6.googleusercontent.com/rb4roSV4lUIMe2tsccjuoo4iBbboI2gb_CRVucI5mPpyFvANucLE9cP-HBT1b_fzxHERmvzi9UvrWnUwYnkPKLAYrC5W9wCTyeKpQkDLF7_qGZ_ZGKDqoCkMT7a9xwJf2W_zHq3Us17y3R094GsRdHDoAyEeA5C0tIBeRgQW9Ee1Wgi1GbHDTNVZGphcpzIxFYD8Hw
+https://lh4.googleusercontent.com/oIVZc_NH4vqmamEvNQ8Xppbu4r44w7wrNHw-iz-Aj-dJN0v2VoVAS2m9VhRiJ8y9pmK9Fw-KlUbZCIkVjdb9JP4wPgXgVOTrzDywVHXi3-7X1jw0hW6LM7-z9O2HfTVQ4ed045Ock89CfQjjhYkUh0cvWZU9HLRmprViH1UoWQQXAcGw66VaC7Tiv2jnkgstS5rTSA
+We created a notebook first and explained the model with model view and head view visuals of bertviz library. It gives similarity between words so we can easily find related words.
+We used the allennlp library and created bar charts and heatmaps to show higher and lower attention words. It means when it finds question related words in the context it gives higher value to those words and if words are not related it gives lower values.
+We used a gradient based method to show higher and lower gradient values word according to question text and created bar charts and text color charts to show higher gradient values.
+We need to use the best pre-trained model which can give good results on different questions and answers.
+We were working on text data so we need to use charts which can clearly show differences between higher attention and lower attention value words.
+"For best pretrained we tried different Bert’s pretrained models like distilbert(trained on squad dataset), distilbert(trained on squad2), bert base uncased, bert large and roberta base."
+"For solving charts related issues we used heatmap chart, bar chart with dark and light colors and text coloring method."

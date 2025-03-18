@@ -1,0 +1,50 @@
+"MetaBridges API Decentraland Integration – AR, VR"
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading tech firm in the USA
+Industry Type:  IT
+"Services: Consulting, Software, Blockchain, Metaverse"
+Organization Size: 20+
+Project Objective
+"To integrate with Metaverse environments with the help of EC2, S3 bucket and the Decentraland SDK."
+Project Description
+Move 3D model files from EC2 instance to S3 bucked using aws-sdk.
+Our Solution
+"Configure  s3 bucket in aws account, create an user for s3 bucket api keys, and"
+"api secret. Put the api key, aapi secret, bucket name and bucket region in"
+environment variable to use them in app. Install aws-sdk to implement s3 bucket.
+Create a function to send file from nodejs server to s3 bucket.
+Project Deliverables
+"Aws ec2 instance credentials, s3 bucket credentials. Code used in the project"
+Tools used
+"vs code editor, git bash terminal, google chrome web browser.  Metamask wallet, cryptocurrency, blockchain, bitcoin,  metamask, metaverse, VR, AR, Virtual Reality, Augmented Reality"
+Language/techniques used
+"Javascript language is used.  Metamask wallet, cryptocurrency, blockchain, bitcoin,  metamask, metaverse, VR, AR, Virtual Reality, Augmented Reality"
+Models used
+"dcl SDK (Decentraland sdk for nodejs), aws-sdk, awscli."
+Skills used
+"Node js project setup, Dcl sdk setup, Aws ec2 instance setup with aws cli,"
+"S3 bucket connection with aws-sdk. cryptocurrency, blockchain, bitcoin, metamask, metaverse, VR, AR, Virtual Reality, Augmented Reality"
+Databases used
+No database is used
+Web Cloud Servers used
+AWS cloud server is used
+What are the technical Challenges Faced during Project Execution
+Making the application port in ec2 instance available globaly.
+How the Technical Challenges were Solved
+Search few blogs and videos for the solution. And make it done by doing some change in
+Security group in ec2 instance.
+Business Impact
+As Decentraland is a platform based of NFT so main part of business is related to NFT and cryptocurrency.
+Project Snapshots
+""
+https://lh3.googleusercontent.com/CnL7svlFoTUWtr9xpAHblrnOzSeXtmwoOoR8lkEiNcQTb-Oj-xOfQLvEZIEt-QvBOKOL_T26k9-F-iVX9ZRcJrdy0MblfP3llWL1CttpmfhP88bzeDG7s3SwuQCEsRpOQuTux3K-
+https://lh4.googleusercontent.com/AcQ3SLA5jikhlCQc6KeEOKiuLr667ZOQmiA6gphPNmIFLzrYqBaNR9s0CgUgm3trENpt4N0fejkmbzz7PXDUv1nPAGjkB-U0C0kvTTU6zvD46yr8JERFFLG8XeEwMPWncRy_RSmj
+https://lh6.googleusercontent.com/GEq8iBA0CQHajFLaNNc2PVlzUrucVSTQL9zaT5HhotiyT44gUfRZZshnmULIosi2ApPRKbf_AuPv6JuQ73sdKyHGcugzqXfEQqRsV3vaN4cTrqyhUMXXiAhpVVqRqZ5lDwfanHBs
+https://lh6.googleusercontent.com/zSYVLhkE2IZTwPmJL6zlc6Z3uLEgBLP73W77jZw7MQW2Jvas8Kvi0cKMdjFLItZUFkH4Sn5D_YPbARpFCYln_HFgWU0vK6z8d7KUo7xv7NMawpZwovk6uEeDkEo2hi2AyBJiF7MY
+https://lh6.googleusercontent.com/BTMHTR2CrtavgZofoerHeQEkBF1rOXcmkrodV6hJKwK-Z_x3KzAn7O1BngG9dnK0L_LyKtea8asuf1U5agdJjc9cD4B0HdXilJusfI1lh1YeOv0BDVEcKHqFQHSFzper6EcSSjSN
+https://lh3.googleusercontent.com/RAan0AuRbakDKvXUp_2cwyLRjfR8L06zlg5nQ4Ir074xluxFjDqqtHGiosX5-BEG9sL60LEgbWps3axEz2NbIpBs2cXUFNdBigEXOiVsEmDRHMcfin6js3dBHqTi2V7lRJ-yMUpC
+https://lh3.googleusercontent.com/unw7I7sWnzMGwLYxdAfsRdINrs1LRSaCbsVstUWGAdgqKu4HNSK-qv4Cjic4aStm-ly1XuaGwurNf7-GkXDYA23vZkLA6Ds4LpQAi4XQspDIMuwprPEUOf1Lt1iAJXgtsbS2ObvX
+Project Video
+https://www.youtube.com/embed/aNAVbVKkCYo?feature=oembed&enablejsapi=1

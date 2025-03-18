@@ -1,0 +1,60 @@
+"Datawarehouse, and Recommendations Engine for AirBNB"
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading hotels chain in the USA
+"Industry Type:  Real Estate, Hospitality"
+Services: Hostpitality
+Organization Size: 1000+
+Project Objective
+To download the data from the servers using Cyberduck on the daily basis and perform data engineering on it.
+Project Description
+"Firstly, download the property and forward files from the server"
+"Secondly, From the property master file a new data set was created with the conditions that the Bedrooms from Property file should be 5 or more or Max Guests from Property File should be 16 or more and City from Property File should be Sevierville or Pigeon Forge or Gatlinburg."
+In the forward file only those with status = R were kept and the other data was removed.
+"Finally, forward file was merged with the new data set on ‘Property ID’ i.e., keeping only those forward data with the common ‘Property ID’ and City, Bedrooms, Max Guests columns from the new dataset was added to the forward file."
+Our Solution
+"We created a Python Script which performs the task and create property and forward master files, which we deliver to client on weekly basis."
+Project Deliverables
+Two csv files named property master file and forward master file to be delivered weekly after applying various steps.
+Tools used
+"PyCharm, PowerBi, Cyberduck, Microsoft Excel."
+Language/techniques used
+Python Programming Language is used to create scripts performing Data Manipulation in different files.
+Models used
+"SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process."
+We are using Iterative Waterfall SDLC Model as we have to follow our development of software in phases and we also need feedback on every step of the development of our project so as to keep track of the occurring changes with every step.
+https://lh4.googleusercontent.com/SxuTTPQRRDGh6VCCipX4eehk55diUirLFpPCkxfGTNtv6NxHRdF11HEb0fkLZ_ZxjunsJXDKJy70Km7SSUkAJ-MCbOzsjTIcgxChHd0EfMPjJI0TqQPfYsRsfwPNZG39fkEJc8g=s0
+Figure 1 SDLC Iterative Waterfall Model
+Skills used
+"Skills such as Data Pre-processing, cleaning, and data manipulation are used in this project."
+Databases used
+We used traditional way of storing the data i.e file systems.
+Web Cloud Servers used
+"Cyberduck, which is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3 etc, was used in this project with Amazon S3 servers."
+What are the technical Challenges Faced during Project Execution?
+"Data to be processed was very big in size, so space complexity was a challenge in this project"
+How the Technical Challenges were Solved
+"To solve the space complexity issues, we tried PowerBi, but now time complexity arises."
+"Then we did processing in chunks, by reducing file sizes to avoid memory errors."
+Project Snapshots (Minimum 10 Pictures)
+https://lh5.googleusercontent.com/LM-j3JrIPYy3NmTiKFJ-4ppysA_KHGRtD6aQvjoboAveiirKNSqBYrrVcnqAz-dNq0I76q0ihaBMdedT-1SkoC4fRSRS7HrTfhxNaqoXBi-VpaYSZNX2q-mjPfPr-_oGsRNXI7c=s0
+https://lh4.googleusercontent.com/u7aNSST2d7TktQq2y1PVVmlohCdSCOPdxwIHuYun4ryQuoOxqzWItTK3kFaJcqfk3-KDvOSvRvhg_AHMkpJIKP4Wj-MIkgdQjxUU0hfsrUjS1iv6xTuEuM_toGxA0mjd7cdPOh4=s0
+https://lh5.googleusercontent.com/yoaW6CHxoOSz_60hEMpn381A5fU25MGHbu2r7wgUTgSDnOQ3QAagr2HR9YQ6wkmZx42IdbUMpgWyOIvIMetHSOYpS5WtG7oy0_dP2PKx5BdzdDsYRJEtD-v0VLrzI57_VN85au0=s0
+https://lh4.googleusercontent.com/eB7P6ysZxhmSnadSts5OM1s2qxNyMiln4mtVnO_aTNpskrx19ZMk-UfFjqXftNb52gl1w-Fkso_gtb_PbsD2yndRXjuxIp04ZkjKgZzdk-q5rNRwYw7tv3DTkWCNy0BKacDMZqI=s0
+https://lh5.googleusercontent.com/bAzhM0yRt-pk-9PSGpwQh5CoQuQs_R4RhTWc3wMkSKTjmPsc0LhYBKTNFL9_T0123Nz_S9pPRCRnQclZnW17xflRogTuEC9uaq8fkYBrv-l2Wbycp4fU4O-0GodMtur_ugz9Wkc=s0
+https://lh3.googleusercontent.com/gvZ1YfXzkwTsg8-RX3ZnywJAnk5PnCfusQQK2jerbRBBlxr1F-dEFxRqwPxsX5GgX7YT4JHkOc1IkLGV7gyBBAQeLKJVPdLOmlbzxJCMCxsVwhmdphe0XUNy909zM_x4lL4e8mg=s0
+https://lh6.googleusercontent.com/ppz-NEei5qYeQaSvE4DDCVs60YBTyOG3RIkPRoPxye7qCMdYiTy2aX9ig9zQKS5bCaJ3FcHgAAPWCFNhgHVst45gm24nW2ICj_3ijLVA-EnRTRrKrEiFUDCjxI0b_dP4KgmDG5o=s0
+https://lh4.googleusercontent.com/Tg8sbz4iYSGX9cFo7AeClnk-n1DUn1ctR6WJl_S3hQ29XZc4HE7P2dNyBnR8B0GGRdRGkcqhdNo-UsaM3Gei6RqYNIKqOKk54qs8Wqshc1msNtY_OudnPkPHEFOzPIJnsWSaJvA=s0
+https://lh5.googleusercontent.com/WxrxGV99JEvFJmcWgjmK_Vj0EafExdGqgw3mFqjQsUDJnadM8Nm2kSeMjpSjUVR8uU5bO-zyE4t3OxD2OO4nfHwFwrUSHTSWqFEMNoyfbc8drfuxX8kv77CHO50LqJKR3pvNAlc=s0
+https://lh6.googleusercontent.com/wYNw4q14yogwy65TKm5PkVKF4824YLT58lKLHCLxQDuntO4kqFz7yA0ycSoahAtEm2CYI9tGuKqLT-LUk40MzQaTUglCGsAIk23PuvkVq3mG_xvZ0tWmZ-WDZpGO5yA-SGSH0I8=s0
+https://lh6.googleusercontent.com/J6P2GqfosRBrL8XU962NWGY9eWIImJf65VgKAc1EVWustm2INbCOapxt737crkbhPCMijfo2FpY3Iz8BObBZ9qvhF0fPa3N1QgLNGBsK5lXHoB7hmRf2dxG1eb8vdTEIeparadE=s0
+https://lh6.googleusercontent.com/XCB0NkMSL1Ws1LfM2cFPg2-fU3gVCi4_GlqZNjOJDgjNCyUxmBBDyOsQ-KIgu2YsxXS7dbhR6KvSVLZ-NxX9gQTkYlQus8N1grcP0adV4ZigZQodJtMPymgi2N4mZ68fmKFpn_k=s0
+https://lh3.googleusercontent.com/9VqMQxgf2ZCfQW1h2knWQQoQMIjgFRAlRG8_VxvwsEnoX81dIGB9P__JJr1YC6kkkv9Zy2hUxHFGxgNZYlpcb1s58VAIcVxrzC-hz6bEUygteM8V5ncRRcPUWgJ6-td5fDu1T_Y=s0
+"Firstly, download the property and forward files from the server"
+"Secondly, From the property master file a new data set was created with the conditions that the Bedrooms from Property file should be 5 or more or Max Guests from Property File should be 16 or more and City from Property File should be Sevierville or Pigeon Forge or Gatlinburg."
+In the forward file only those with status = R were kept and the other data was removed.
+"Finally, forward file was merged with the new data set on ‘Property ID’ i.e., keeping only those forward data with the common ‘Property ID’ and City, Bedrooms, Max Guests columns from the new dataset was added to the forward file."
+"Data to be processed was very big in size, so space complexity was a challenge in this project"
+"To solve the space complexity issues, we tried PowerBi, but now time complexity arises."
+"Then we did processing in chunks, by reducing file sizes to avoid memory errors."

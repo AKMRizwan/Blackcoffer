@@ -1,0 +1,65 @@
+Healthcare Data Analysis
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading healthcare tech firm in the USA
+Industry Type: Healthcare Consulting
+Services: Management consultant
+Organization Size: 100+
+Project Objective
+"The main objective of this project is to find the pattern in the vital signs of patients who were admitted to the hospital in past. And from this pattern, we get some ranges that help us to give early warnings."
+Project Description
+"We are more interested in non-survivor patients’ vital signs as compare to survivor patients. we find patterns in vital signs that could better determine that patient died (ex. if Sp02 is below 70, patient in 95% of cases died, if Sp02 is below 50%, the death rate is 99.9%) or we can take correlations which can help us to find better patterns to define death cases."
+"Data The dataset which was used for analysis here is taken from the mimic website. But the dataset is not in the correct format which we want, after some manipulation, we get the data ready for the analysis."
+Our Solution
+Approach
+To protect patient confidentiality date and time is shifted to future that’s not the actual time so from shifted time column we create an extra column hour which tells us the time passed in hours since first observation in ICU.
+After all manipulation our final dataset contain vital signs values for each observation of patients with time in separate column and also the label fo Death (0 or 1) in another column.
+There are two options to deal with missing valuesDrop all rows which contain null values.2.Fill the missing values by some method using pandas.
+Drop all rows which contain null values.
+2.Fill the missing values by some method using pandas.
+"I can’t go with 1st option because a major part of the data has missing values. so, I decided to go with the second option and fill missing values with the average of upper and lower values. But before that, I filtered the data and take only those patients’ data who died in a hospital or survive."
+Project Deliverables
+"After performing EDA which also include the removal of some impossible outliers, we come up with a result of Analysis."
+"This result helps to build an early warning system which predict the condition of patients on the basis of their score, calculated on their condition using vital sign values."
+Tools used
+Google Colab Notebook
+Language/techniques used
+Python
+Skills used
+Data visualization
+Data analysis
+Pandas
+Numpy
+Seaborn
+Databases used
+SQL
+MongoDB
+Web Cloud Servers used
+Google Cloud
+Project Snapshots
+https://lh5.googleusercontent.com/A4koGZ5U5JDhkFKxkoS-4jkJEZ5HjuwkA1mvjsha8_j5WiFQnGlO8mRPFbFESute8eAhl0kdfnExZ7_KV6xNoT0jnepMlW5tXTdHHlzXSVCd1nuXTL1aBHuXWa5zvBdye4EKlV8
+https://lh6.googleusercontent.com/KaUykI8JO9pxMfg0HdqWZzhetlfAPO-prAjqe0A9JGmlBwdar7ZHtR2TirLhEXeZFw8M5a4PhIzXVTxeB19bT_5ePNt8azRFQshB0J8sS2QUMZhEL8zs0mWfiYHY7SnAvcw-H6E
+https://lh4.googleusercontent.com/JyOKv8AVB-UVrvtWrhmrFGP69sCFpDNhLK0fWTkWAQuhWJ4yG-mZ19_BJrgCOpu03dB7_hMfYxN5ZFM7lkmttxS0tYJRMrFhHFFom7HBr90qznnMzTjhD-IxVJDiA1Pf0WWX_20
+https://lh5.googleusercontent.com/HhajsaA3BSHgCgplCLOaCyEMMi1-PcgbeI_ouRPC6oromEK-YHIADhiyS0kjcXCAebPi8074hAE9UIchxHOJcWHbCDY-nP0X47lFQ4sAEYvw3XhRecSRpeBNacoFiqVv5hJVOhY
+https://lh6.googleusercontent.com/_qKrsmHguTcGux-_TkjyVHhCb2FyKi0IIszqHtydg0mWFhdfzkxNP25M6nweoYA1Nso6OvI_J0K761XEf-Y8v_ygcQfAo18Jn2I2HyaujdteM-b3uiTarvf1vYhhOIaSDdBJbPQ
+https://lh5.googleusercontent.com/LglnatAkIdSX3Z7qV_dgs9xapyU4XDVC2WXD0MsxV3xsBVtjuxyiQq_T57IdafOh54bUcRXX0G1wO54p9yaqyFoOowDqAsM_5fSass9jiaVL2raZ__trUw4LTU-K4l-qNbOTPuU
+https://lh5.googleusercontent.com/J4DbGyso7Je5p2Tm3-sNQ6z4Gc3Ge8OAnd7h1OJ5h8JYXIFkkekZOXDw7uPicWPgUYMjw2CB4VT7fxZQHrMMBov19UiKSes-JooFyhA0VLvi62F-aUtrToJzRm7kxADVe8TXAbE
+https://lh5.googleusercontent.com/_DUGq0MOXULbfkreZq67XXKIbz0FRf4jImhjG8gAziBxLMCaEElv7a5mYL4xjr49mgHfWMs8uZv7G7HpKGf_V_wtsTvHlFcBB4rqO7F0byqFKfW2m6k49YPSk-rmVXnmkgp4yvU
+https://lh4.googleusercontent.com/jT2TA7b4fgXnwst79ukp3NcDJmcV5w1iLez09HKr6lEly2zRqeqf40xzxsmyruRWO66Oz-6Ia-OhZ9kpJqXiLNAEaM4rFpg_xNvHGvqAQqAEYsGv20zNae5v9ItnvEjQ1T5cbYY
+Project website url
+https://colab.research.google.com/drive/1mo7i32BoEVb0Ac6_CWwJd7_HVbliktx0?usp=sharing
+To protect patient confidentiality date and time is shifted to future that’s not the actual time so from shifted time column we create an extra column hour which tells us the time passed in hours since first observation in ICU.
+After all manipulation our final dataset contain vital signs values for each observation of patients with time in separate column and also the label fo Death (0 or 1) in another column.
+There are two options to deal with missing valuesDrop all rows which contain null values.2.Fill the missing values by some method using pandas.
+Drop all rows which contain null values.
+2.Fill the missing values by some method using pandas.
+"After performing EDA which also include the removal of some impossible outliers, we come up with a result of Analysis."
+"This result helps to build an early warning system which predict the condition of patients on the basis of their score, calculated on their condition using vital sign values."
+Google Colab Notebook
+Python
+Data visualization
+Data analysis
+Pandas
+Numpy
+Seaborn

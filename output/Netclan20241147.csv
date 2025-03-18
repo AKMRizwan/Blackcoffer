@@ -1,0 +1,68 @@
+Real Estate Data Warehouse
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading Real Estate firm in the EU
+Industry Type:  Real Estate
+Services: Real Estate
+Organization Size: 1000+
+Project Objective
+The objective of this project is to build a data warehouse from a website given search and filter criteria.
+Project Description
+The objective of this project is to collect data from a website given search and filter criteria.
+Data Brief:
+Crawl all the information for the property adverts once a week and store them in a database.
+Data language: English
+Filters:
+Federal States
+Contains a list of the federal states in Germany to Crawl:
+https://en.wikipedia.org/wiki/States_of_Germany
+Categories to Crawl
+Mieten Wohnung
+""
+Kaufen Wohnung
+""
+Kaufen Anlageobjekte
+https://lh6.googleusercontent.com/Q3XlzVKAwykzGBN7OqONfQ7CuQkP_sNH5lk1t8XIx78vtiP9cHBJ8NKlPzJfrDd1nkarkXJK9j2qHRyjP1Q7-nFMpwMxJULG_TrP9fPP2rlknlZXt2y3oops_pMJv4e53087n2k=s0
+Kaufen Grundstück
+https://lh5.googleusercontent.com/vlY8mpNSqVgteXS7ZX1uJHKxC6eP3kshkkZCn5O_ar63OMI6sgxAfnk2Uq4NlRlrfmtH5VvsjXgrzH11yCQl1SEAd9U36OomIzz2zWdGhVNT9akEbsFhWhI2Vn0k2CDMpgfyvx0=s0
+Our Solution
+"We have developed a Python tool that crawls and scrapes all the apartment listings for all the states in Germany under each category namely: mieten wohnungen, kaufen wohnungen, kaufen anlageobjekte and kaufen grundstuck. The Scrapy library has been used to crawl and scrape. Beautiful soup could have also been used for the scraping purpose, but for the sake of consistency, Scrapy has been used for both purposes."
+"Scrapy is an application framework for crawling web sites and extracting structured data which can be used for a wide range of useful applications, like data mining, information processing or historical archival."
+"Even though Scrapy was originally designed for web scraping, it can also be used to extract data using APIs (such as Amazon Associates Web Services) or as a general purpose web crawler."
+Four Spiders have been created for each category to be scraped. Every spider crawls all the states in Germany and scrapes all the apartment listings for important data. Every spider creates a separate JSON file to store all its data. This data is then converted to CSV using another python script called “conversion”.
+The python tool has been completely automated and only needs the “Controller” script to be run. The script also has the capability of running every two weeks automatically.
+Project Deliverables
+Four CSV files (one for each category):
+Mieten Wohnungen.csv
+Kaufen Wohnungen.csv
+Kaufen Anlageobjekte.csv
+Kaufen Grundstuck.csv
+Language/techniques used
+Python
+Web Crawling & Scraping
+Skills used
+Data Scraping
+Data Crawling
+Advanced Python programming
+Project Snapshots
+https://lh3.googleusercontent.com/ii1MPx6QG2B2x2BdEQTtnRSG09u8qX9aMZdes1ESsFkz3Lb3upjVYbkOusRMYhNTxDb-xbJy1r0-f59asgS9P4LOKUrPO342vtjrEo3qF66gBmHk3K-iGZ2RCLA4Tm9a9mfDZ2k=s0
+https://lh6.googleusercontent.com/S6VZ3Ui-TtBHIJ0yP99mYgFhKHres7L-MSm94Fd4N5YA8y9VgAOl7TXJoJ32qOsgJ4IArW6aLLhjQFkrRYlvnp0WwdvJdZsXv3vti0p-EoyOLEtB61m3jZZWVDr0zhBwH9mlGYk=s0
+https://lh6.googleusercontent.com/20vdTIQgBKedcsiA5lLs6pqgjF7sGT5_XYtjqlzchX5_gAygxXbj7mr8q75061UDaP9SxE_BtTvQ-m44ZJ861dqX2BaVjW09hGu7U-7qqZK2vnVya7whLIs_gSY6BY1d-MI64mM=s0
+https://lh5.googleusercontent.com/pMhce4ei3P-er-pWqzy97Gq3Hdmiqr8vko0kRrCQD45S8KIvmIbgMdON6JNGUoi9JTe8m6KzazH1woCl93BXuT4ooZhqWOSmWjdXspLH-KV5FYZy3mIrFgaUYkLyyOVz014IWPs=s0
+https://lh3.googleusercontent.com/3yvxAImy_SR0j4CMkHjoFMFiT8EV_Ywp19l94reiT_JxG2jPcMSUD1_EB3tGi0w_C0d_5xrMcHE0AibRKY81L9gcKLOko1Y5NtwUCiF6GpqpRRoGrgP1MCSJ-9_QV6KQbVazTyw=s0
+https://lh5.googleusercontent.com/OecSv0pj-bJu7sUwpPaEqFLr_Cy4RZLlo---TuZtqnQeLG_v6hV0LhSObf6U9uENLLFjPMw8J_Ym0YUi0b7ORnET2ba4wuEhl9l2Jzenwo_h2rCMs89v0Hh4PBcO6zLwxOHJ4Vs=s0
+https://lh6.googleusercontent.com/aIyM8E2V3pJwh1nSAncCpehwYUkMZk_UlotGEr0XiksLWDGrG_uJ6IUK_UvRJNSus9LMBLrKv6kXTdHY7AULqJuTxoQ2fwfKyq_mkYc5iNQxOkoNqFUKRMaQmud9HZCNV_m3p2I=s0
+Crawl all the information for the property adverts once a week and store them in a database.
+Data language: English
+Federal States
+Categories to Crawl
+Mieten Wohnung
+Kaufen Wohnung
+Kaufen Anlageobjekte
+Kaufen Grundstück
+Python
+Web Crawling & Scraping
+Data Scraping
+Data Crawling
+Advanced Python programming

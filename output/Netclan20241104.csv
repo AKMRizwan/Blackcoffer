@@ -1,0 +1,80 @@
+Data integration and big data performance using Elasticsearch
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A Leading Tech Firm in the USA
+Industry Type: IT & Consulting
+"Services: Software, Business Solutions, Consulting"
+Organization Size: 200+
+Project Objective
+"Migrate existing databases from Postgres to elastic search since Elasticserach performs better in search operations. In addition to this, all of the backend javascript also needed to be changed in order to query the new elasticsearch database."
+Project Description
+"The client’s website was a visualization tool. It also had GUI to add filters. To make the visualizations, at least 50,000 records needed to be pulled from the Postgres database whose size would be around 200mbs. This would take a lot of time (nearly 20-30 secs). Adding filters would take additional time. So our task was to move the entire database over to Elasticsearch from postgres since it is way more faster in search operations and also filtering data. Since the database was changed, we also had to write new backend code that would now query the Elasticsearch database."
+Our Solution
+"Setup ELK stack (Elasticsearch, Logstash, Kibana) on AWS EC2 instance."
+"Write a pipeline file (.conf file) which is used to ingest data from postgres to elasticsearch. The datatypes of cloumns, unique constraints, datetime formats etc., are all defined in this file. This is executed with the help of logstash."
+"Once the data is inserted, it can be queried in the kibana’s built in query compiler. Here we can check the veracity of the data."
+Identify the code in the backend that needs to be changed.
+Replace this code with new code that would now query elasticserach. We use elastic_query_builder module for this.
+Testing Postgres and Elasticsearch performance.
+Project Deliverables
+"Setup ELK stack (Elasticsearch, Logstash, Kibana) on AWS EC2 instance."
+Pipeline i.e; logstash file
+New working backend code for elasticsearch
+Commands to check elastic data.
+Customizable logstash pipeline
+Tools used
+Elasticsearch
+Postman
+Kibana
+Logstash
+Python
+Javascript
+Amazon Web Services
+Postgres
+Docker
+Git Bucket
+Github
+Language/techniques used
+Javascript
+Json
+Domain-Specific Language for elasticsearch
+bash
+Skills used
+Elasticsearch query knowledge
+Postgres query knowledge
+Networking
+Javascript
+Backend web stack
+Databases used
+Postgres
+Elasticsearch
+Web Cloud Servers used
+Amazon Web Services (AWS)
+What are the technical Challenges Faced during Project Execution
+"Sometimes for large responses from elasticsearch ( size above 500mb), time taken was above 30 secs."
+How the Technical Challenges were Solved
+"To solve the above mentioned problem, we used gzip in the request url’s header. This significantly reduced the execution times."
+Business Impact
+Earlier postgres infrastructure which took around 20-30 secs now too consistently less than 10 secs to perform filter and search operations. This would contribute to a better user experience.
+Project Snapshots
+https://lh6.googleusercontent.com/SvSCTD1IXhVr6yQeeXSYeDmqp7vKrzvVM06v4SHVrc5yt-NdaTQK7wSz1lxRGTenMjONZjVPnfB31VZ9fwUyTNGTqu6cdhc3dRyyDYFDiyEC1l7xNPZVoVguKklFgdvQX2JYSZ7YWkbZnRIBew
+https://lh4.googleusercontent.com/qchEj3s3G1vza2vrEZ_MFRaC0gRkcQKjeUlFlYkodJ50qFKIrjCvIL-sURSijvUjGiWSZupUL8_ktBwUwy3nRklT02B4tkxuJ1dMFcR33V61nW8_nXRIuMurkGbuZK1BJynzCxyiAcWwN_eNOw
+https://lh5.googleusercontent.com/_7UNhqANuRXJxQ5QNa6T23sxm8TaZ0wJE2Lq28wOE4Dz398mfol871-ViK9_2xkWq__oBS3BUXBkc_llLT-970OjPTTXsiVsnRqf0XNdJE0DaR_Msxh4P1AUJCNJmnkvX56zZS6E7jeXRCA_RQ
+https://lh5.googleusercontent.com/u75Ty_FFlAt0xG60RjgjXm3B3Kp9uUTjQKOU11Y04-nf12QzYWTBVBW36Z9CWYwJCRzbqgI1aPIIv9FWwgBG4k7__TrpdlG7zxH2dXKThMHDLfd0m0XWEF0FoVxoQJ0kxxGnOrj-4PS5XLuf9A
+https://lh5.googleusercontent.com/zJTSH8o1CxQGJ2gDfcbMFiojjdZgyYssKY0Y8xLeH-xrIOal9G-ythDJfBDfXaZs0VqVnG5o_PhYWhK49AX3Hj2szDv-y-xoK9XZ6bggQslhrVfxxm6DzvdKcnFYvFoKofrGydCtAF1fFMAmnw
+https://lh5.googleusercontent.com/g__U4KPyq1oOh5m6cNvjUDgaAsRaIcNCQvGGWzjZ3_MVqM5jpZHS5qpIi5751RCvGNdoC32zWMR_evx7h7mjZZP0p2BfcqGFL-LRYjXFikr6NcYAZHBKRIGvFoNXoI-j3cLgbwuG6v2SJL-MwA
+https://lh5.googleusercontent.com/Q1l__9PGnzkSIFtcHu1BJ6Omnk98w5ggrDzyLMAjCStWfTP31vOhjaMdS6Ec2nNnl6ZJPFyeHGhR1JsggW-suVkVkim0HtwKm3L2rWrvKkfB6X3b8mJJzLiO-Szzqcv8oC30tH8EM3hPLuwS6Q
+https://lh4.googleusercontent.com/GmfhNzn3Mo0Ay9iV64f6YDj556pqZjuMpaO9vZ0E-UkKL2WtzzAzcpaFvLaGDaQ1dBqaIBWEEoyPjnTtXZPEny2rIYO4K0ZWtPZNZv84h3DxJ8J1kFUb5VNGLH0UOHv-cmOq0WLWFhiMhWiphA
+"Setup ELK stack (Elasticsearch, Logstash, Kibana) on AWS EC2 instance."
+"Write a pipeline file (.conf file) which is used to ingest data from postgres to elasticsearch. The datatypes of cloumns, unique constraints, datetime formats etc., are all defined in this file. This is executed with the help of logstash."
+"Once the data is inserted, it can be queried in the kibana’s built in query compiler. Here we can check the veracity of the data."
+Identify the code in the backend that needs to be changed.
+Replace this code with new code that would now query elasticserach. We use elastic_query_builder module for this.
+Testing Postgres and Elasticsearch performance.
+"Setup ELK stack (Elasticsearch, Logstash, Kibana) on AWS EC2 instance."
+Pipeline i.e; logstash file
+New working backend code for elasticsearch
+Commands to check elastic data.
+Customizable logstash pipeline
+"Sometimes for large responses from elasticsearch ( size above 500mb), time taken was above 30 secs."

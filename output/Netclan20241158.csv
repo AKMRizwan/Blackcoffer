@@ -1,0 +1,95 @@
+Sentimental Analysis on Shareholder Letter of Companies
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading financial firm in the USA
+Industry Type: Financial services & Consulting
+Services: Financial consultant
+Organization Size: 100+
+Project Objective
+"Project “Sentimental Analysis on Shareholder Letter of Companies” objective was to Predict the Sentiments columns Shareholder Letter in terms of Polarity and Subjectivity finally classification of data into positive, negative and neutral tone."
+Project Description
+"The project ‘Sentimental Analysis on Shareholder Letter of US Companies’ task involved data cleaning on shareholder letters of different companies which includes lemmatization, lower case conversion, removing special character, \n , \t , punctuations, numbers & single character and tokenization. To generate polarity and subjectivity columns for the letter 1 & letter 2 columns using the Textblob library of NLTK. Based on the polarity categorizing it into positive, neutral  &  negative."
+Our Solution
+Letter Text Length Variation
+Contraction mapping on dataset
+Replacing missing value with some neutral tone string like None so that cleaning doesn’t generate any issue.
+Data Cleaning and Preprocessing which involves :
+i.  Lemmatisation
+ii. lower case conversion
+iii.  Removing Special character
+"iv.  Removing \n , \t etc"
+"v.  remove punctuations, numbers & single character removal"
+vi.  forming list of letter data using tqdm
+Tokenization and word count.
+Used Textblob Library which is part of NLTK for Sentiment analysis.
+Created Polarity and Subjectivity column for the Letter1 & Letter2 columns
+"Based on the polarity of letter 1 created a letter1_type column with values “positive” , “neutral”  &  “negative” category."
+Project Deliverables
+Output iPython File
+Preprocessed Dataset
+Tools used
+● Jupyter Notebook
+● Anaconda
+● Notepad++
+● Sublime Text
+● Brackets
+● Python 3.4
+Language/techniques used
+Python
+Machine Learning
+NLP (Natural Language Processing)
+Models used
+"My project ‘Sentimental Analysis on Shareholder Letter of Companies’ developed with a software model which makes the project high quality, reliable and cost effective."
+● Software Model : Waterfall Model
+"● For Project ‘Sentimental Analysis on Shareholder Letter of US Companies’ is a Waterfall Model as our model is not forming the loop from end to the start using Textblob which predicts Sentiments, Polarity and Subjectivity as the output following the Waterfall Model."
+Skills used
+Pandas Operations
+Data Chunking and Integration
+Data Visualization
+Databases used
+No Database is used to complete this project.
+Web Cloud Servers used
+No Web cloud Server was required for this work.
+What are the technical Challenges Faced during Project Execution
+I have worked before on tasks similar to this so there were no challenges faced but the data cleaning was a bit different and required time to complete.
+How the Technical Challenges were Solved
+As Discussed no technical Challenges were faced during this project.
+Project Snapshots
+https://lh3.googleusercontent.com/reXUKItMgSP9ltMsI8zSZRQdwkatnvr8mX7x2QExt6f4C7vkCeWqc7f8zDZepng_qpw_HPnfhMzH9ds6xLnhuOdgEA2wbIY7iQWYXG4RzzjVsEoqsG-976nHsFDirnEh90sDgMk
+Figure 1: Input Data Schema
+https://lh3.googleusercontent.com/9q8YOSUtb8vAC1RX6DCbTuMB0Rz2-6zY4lkvbrRHoTpSwZ2xmjSta4dJpkU0GLs2jT9ztss4JFggwck1hEIvodjfe-0v18O9zqqrReWA_s57fAEcXW7fWgRUblJVyZW_syW_fkE
+Figure 2: Output Data Schema
+https://lh3.googleusercontent.com/43YqEkkkoJsNXZuTxWKg8v26GNu4AMJ_u9T61J0V4H61b_VEK4Vx75AwPJodg-KN8zPCv6HhTaF94hv9Piwj9it1wx6MyyTxRNNZhRl94w8KdNRHLG5a8E-Kr0sRA7MmURzyqbQ
+Figure 3: Sample Input Dataset
+figure 3 is pandas dataframe which was fetched from google cloud database there were 7 columns and 13290 rows.
+https://lh6.googleusercontent.com/ABCBlq4psYWGpZIYu4OVAg95WpmqMGQ-ZOb_IWKdC970kETv3kHgTYQ7Ow2T4I2B_qyhbmhMEmzrdTMDUpDQWtAHAYZIiHinTQX2ZRwLjyitJHVzXLPSa6kffDGhpVKs8_kVprI
+Figure 4: Sample Output Dataset
+figure 4 is output pandas dataframe after data cleaning and modeling of sentiment identification there are 13 columns and 13290 rows.
+https://lh3.googleusercontent.com/hD0HmgVG2QCW2IkaPm8k9cZzx7W8P9eWqKOxV1zMMh4UeXGxife2iTfvDCrfgSvJ5wLGNsi3lGC5aFKSQ3KsdqlcCSjKBTbenKNd4RH44-GKmkV2ul1HwjbcEkSs2Jm5jncEXro
+Figure 5: Sentiments assignment based on polarity
+"figure 5 represents the identification of sentiments and tone based on polarity and subjectivity. polarity>0 then sentiment type is positive,  if the polarity<0 sentiment type is negative and if the polarity=0 sentiment type is neutral."
+https://lh6.googleusercontent.com/iaH83VQFBpo3r1EhikgOjnfQZzDiobYhQ0n5ea5s_ky0l8YMB_StR8FySdMpB0eXWFpahmtvqXc3HmXp2BUsXVBvdwpgQHi9SN5FloTjLTlppXX8nRJNs1kOAklnoI9hh2V1Cac
+Figure 6:  Histogram Representation of Length of Shareholder Letter 1
+figure 6 is histogram plot between length of shareholder letter 1 among the final output dataset.
+https://lh6.googleusercontent.com/bYeQ_k3IV6uci8e1QRPaPnu8uU_E6cJsVJS0FGFVvV_73cwxHBK0vab0pptD6zxGs0Zu9sDpWYEpkmmlx6kg5PlWY_4fN4uFVw9A33Rsuff_VMyvjdMmdgW3YjgGQbEEGOWIjNc
+Figure 7:  Histogram Representation of Length of Shareholder Letter 2
+figure 7 is Histogram plot between length of shareholder letter 2 among the final output dataset.
+https://lh4.googleusercontent.com/JCY3OEvlBTzhSHRLVqUFjGq9WbRcsINsDQK9NFXK2uLWRO1fNrxdMJlzR-NPT5pwCfsU4zAW3dlsRC8uyhNR09y6GWnDV4PO-TDoi5Sf8kKdTZDUOS9FH-HMAnOLf3ilIlh_YAM
+Figure 8: Flow Chart
+Letter Text Length Variation
+Contraction mapping on dataset
+Replacing missing value with some neutral tone string like None so that cleaning doesn’t generate any issue.
+Data Cleaning and Preprocessing which involves :
+Tokenization and word count.
+Used Textblob Library which is part of NLTK for Sentiment analysis.
+Created Polarity and Subjectivity column for the Letter1 & Letter2 columns
+"Based on the polarity of letter 1 created a letter1_type column with values “positive” , “neutral”  &  “negative” category."
+Output iPython File
+Preprocessed Dataset
+Python
+Machine Learning
+NLP (Natural Language Processing)
+Pandas Operations
+Data Chunking and Integration
+Data Visualization

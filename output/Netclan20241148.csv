@@ -1,0 +1,49 @@
+Traction Dashboards of Marketing Campaigns and Posts
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading Marketing firm in the USA
+Industry Type:  Marketing
+Services: Marketing consulting
+Organization Size: 100+
+"Project ObjectiveFor the LinkedIn posts that received the highest engagement, which keywords, phrases, and hashtags were most commonly used and also view the data according to Impressions and Likes?"
+Project Description
+"We are testing AWS Comprehend. I performed a key phrase analysis of our LinkedIn posts. We have an output file. Now we need your help to visualize the data so that we can interpret it.I also have the original export file from LinkedIn. I want to answer this business question:For the LinkedIn posts that received the highest engagement, which keywords, phrases, and hashtags were most commonly used?"
+"I want to match up Engagement Rate with key phrase analysis. The business question is this: For the LinkedIn posts that received the highest engagement, what were the most common keywords, phrases and hashtags used?"
+"Beyond matching to Engagement Rate, please check if there is a way to also view the data according to Impressions and Likes."
+Our Solution
+"Data Driven Dashboards which will give the summary of Most used words, keywords, Phrases and also Analysis of Posts as per their interaction with their audience."
+Project Deliverables
+Two Dashboard Links in which
+First dashboard represents Key Phrase analysis of the output by AWS Comprehend.
+Second Dashboard represents the Linked In data Analysis
+Tools used
+"Python, Google Data studio"
+Language/techniques used
+Python
+Skills used
+Python and Data Studio
+Databases used
+MongoDB
+Web Cloud Servers used
+Google Data Studio
+What are the technical Challenges Faced during Project Execution
+One of the major problem was to match the output of AWS Comprehend data with the data of excel sheet to find out which posts received maximum interactions and make a dashboard out of it.
+How the Technical Challenges were Solved
+Working on the output.json file in code editor and comparing it to the Linked In data sheet to check the accuracy of the output file with each post.
+Project Snapshots (Minimum 10 Pictures)
+https://lh5.googleusercontent.com/EkV2NLJW2K0Up3XDYmD16na6peDSf7pkql-gJheiIxFzUH04RKGpqJG7Pak9WycfYAeGf16UggZDcLzMQJ2nFu4qse1K5Ur44EWNk3WbzD9mWTkeOkv6l4IEUcGasVlgVDAbxJ4=s0
+https://lh5.googleusercontent.com/oGEWvRKA8-VyVzMZTXKGePprsuSy6wq1-X9E9m1n19pqafFM4g6CsaYPJJKuLQ-cG9_0EA-SNA1ijYB_jViGdzLa1u1Lx3r0bXg8gw-w-bI57Qe1VA5so3Z-USXmHwSm_t70SRk=s0
+https://lh6.googleusercontent.com/wH74vT_KKM7K8pd3zEn-vsOF93DFlwG83Du7EgRRlBGz3QYjILjE6ZiBY3bvsecm2QCIn8TmBaF3czZq12C7ZLz2-rBoimtR4cdqFkIPKKu8zOEvQYq9lSTQFsd4mlxazXb7pfA=s0
+https://lh3.googleusercontent.com/J7W2zI558V4_pU7KWdJ9hocmu5BOIcmyeZkU3KO4RrIG650QiiWMs7ZmT1NxLnTUjMFGAyfy-cSQPsuPKmJnnICpWfJM3NSCZ_gNRoNcPEgb32HNqXBKpXAB50aL_7AHyZOiz8g=s0
+https://lh4.googleusercontent.com/eNUHwSGTgPRIdktlVRMXA71wmckXRz6uek8UAmAzKoYOg54KX94pL7khh_w-3DPqsVkXL-ZWOFwBc0tpMmWTuTdym-3TULmuj_QcYUOYznXB-GjSV2lAkfFUsYT5A3cw2ctVDPI=s0
+https://lh4.googleusercontent.com/N6CvoqZqHwYjW73yN3RwYF5p_3bo6QFrh1yA7ifIgX1BSyGtZ7VQISh8XoSu0rUhR4k7gc1fdV_nWnVCgrPc7pm3Fj1FISzi3TF_61-neqwokwJMjY5-N_JyjkPw47lsW8ZP6BA=s0
+https://lh6.googleusercontent.com/taNxEdbGPt3mSOuQMAXX3_s-6JchNWRkKuWxzS8bAkBK6eTZXxowZg5kleG05vJ-FaUI_7W5-VSsUDtoMactVJmf6vQ_lGrIcwcRFm3eI5F2eGF1aaf8eOcPfOQU9WJ1lgN0KCU=s0
+https://lh4.googleusercontent.com/2CxiOd4IcEQzQ3QGK10d-iePctKarDQuQAgIXwKgZHX4FVdWZoiGKiSyuNkfUpgDu5xlIxP_K5XSRZhpSegObEJ368Sm3BZoHqvxTsMyNE5ccCNV53k41wwZBrPUoL2oFSqWWxE=s0
+https://lh5.googleusercontent.com/vQkZJ7f92_XpY86ry04VoK8a9EeRQOOvpNiiJHCxAxi2ui0dfoGQzm8pJW25XdCxiMewkSzoEiH8pKKR98Wkowk-1WOPyz_DVc14kq6_WSZysAposydCDLhk0Gd5Rx5GhAtpFZU=s0
+Project website Url
+1 Key Phrase Analysis Dashboard
+https://datastudio.google.com/reporting/efbabbff-55ba-4326-8133-78ae304aeb99
+2 Linked IN Data Analysis Dashboard
+https://datastudio.google.com/reporting/3525e1c1-6c4f-4613-b260-d6e975fe1652
+""

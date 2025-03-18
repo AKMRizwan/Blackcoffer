@@ -1,0 +1,60 @@
+Using Graph Technology to Create Single Customer View.
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading retail firm in Newzealand
+Industry Type:  Retail
+Services: Retail business
+Organization Size: 100+
+The Problem
+Companies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss.
+Our Solution
+We leverage graph technology to create a single customer view by using Complex cypher queries  and Graph Algorithms.
+Solution Architecture
+We have an Azure VM on which we have installed the Neo4j Database. Deployment architecture is a single Instance because of using the Community version of the software.
+Deliverables
+Populated Neo4j Database.
+Required Cypher Queries.
+Tools used
+Neo4j
+Graphlytics
+Language/techniques used
+Java
+Cypher Query
+Models used
+Node-Relationship model
+Skills used
+Data Analytics
+Data Engineering
+Data Science
+Databases used
+Neo4j
+Web Cloud Servers used
+AZURE
+What are the technical Challenges Faced during Project Execution
+Only 1 Difficulty was faced in this Project and that was to migrate data from Elasticsearch to Neo4j.
+How the Technical Challenges were Solved
+Research and Experimentation.
+Project Snapshots
+https://lh5.googleusercontent.com/yNQ3xdOoofxxnk1HtTamqjTfYKpmToc6liRQOuy-Z-0YWXo_ECInj3NId-toypWI01ieuk6JTXjjxenxJATwJDwr_ThooR3-9nt84Q9v0DwDk4t9ioREt3FWElLlELwRdNjqqzZ460Lfof25qzCRSg
+https://lh6.googleusercontent.com/Xrn3WLHlZ0bUnYvr8akkBD7rfF0yesemYHQqyOjM87aPodjsHX6oGnAMNB5ltoRG8p39X_k8a-Kb3ORhtSGBfWDmuvjOCsi3-vnC_HYNfw1R9QTb9yXyG7CO895E1Aa6SAZLWqm_c8UZrzBkLlJiEA
+https://lh3.googleusercontent.com/5Js6GFEJWRzwcEe8YQwRE7NYjot_ImJBKxXJkmZ9HTrJ2sEquy2FHweGYGeE6n6kTZCcQt90AnvNQc5OIDSkor_7cD8Ams5CNPulB7oPMYtSOmFxj0-mTB4Nv_4k2RcarynZ5VUI9tXbcnfNWjWh0g
+https://lh5.googleusercontent.com/Lo2AgjUkWci9jIG08BHDkGnCdX-mdPcSpep7x1q0izJs-kS9OTunwXRZ_3bC3MKze21_q-ZfI1mm6oj1kP4af0bzzlZfWgiHPSIrRPhN3Ovbv9hXcJHsdgFaymxbJXYgAZ-W2SRP_pNxSLfQ7KmrXg
+https://lh3.googleusercontent.com/UXQE4V1LzKF02Yiaq30fmSPDWX7UVcXsdq4R2d0oNyMKw3z4LRVMWdVVfvBfxZB6AOhRYEvXU82jQm6BHoEKLznlz533h9HlpddBYphzbksMrJN9zm7EPOI9wnjBbzO1zAonOByVYL7RNRUIaubozw
+https://lh4.googleusercontent.com/SYjcdYjdSiKzLJEKTRgExFURzYDxas0pTp9hfhbgNTFMOjvydlDLlFYw4qMc-tUGTTCCoiYQfUPia7xErA49nr0yvK07RnunuiMeUZvcgqMmZnaABaCoqDHveJ5mCVhes5XA2iBvoPoG2k-AZ6CGCw
+https://lh4.googleusercontent.com/hWm8nLisw2y9iwAcmKD8KhlgPQoQW-GGxg7zB7pO74uPvKcpK0xO3rUGGinNimIBjVBbr32IIq69pzWpqjPvwevqq6oDZ2JrMc4gOU7o-ndNPprlB9iuu_laoJVFdpFpsWsmBuhGY0EIOXQM9k65uA
+https://lh5.googleusercontent.com/ilFQkofyGLvrLgwwC1j1dfJTaFD_DqTeAidLJbgRheerRhfgWh-LaTv7135zPSqqqyCnDalTS-Rv0SJgMTotxi33pms_57I2zcwUrqXhyiTflrvOWDSX96qlsHCuE35agtvmrJxUQRqlrh1hnUkDhg
+https://lh3.googleusercontent.com/bH8-t5J6jnEuVaky2wubVC2WlBdcWCWTB71fSLH30nf4HMxxkheon1asZodw7m7SeUghfkIia64khXf57ru0HGkCtpBXJRI4ZO6y3o1mqbMVCaSC1ms0Q-VEcTPh7ek4OB3BhfsBJ2iHwRH5kEK8qQ
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+"For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you."
+Populated Neo4j Database.
+Required Cypher Queries.
+Neo4j
+Graphlytics
+Java
+Cypher Query

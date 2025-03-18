@@ -1,0 +1,80 @@
+"AI Chatbot using LLM, Langchain, LLama"
+Ajay Bidyarthy
+"March 13, 2025"
+Custom QLoRA Model Training: Training open-source models like LLaMA and Mixtral with domain-specific data to ensure accurate and relevant responses.
+"Twilio SMS Integration: Utilizing Twilio’s API to send and receive SMS for appointment confirmations, reminders, and other notifications."
+RAG for Confidential Data: Implementing Retrieval-Augmented Generation (RAG) using ChromaDB for secure and efficient access to confidential data.
+"API Development with FastAPI: Building RESTful APIs using FastAPI to handle communication between the frontend and backend, and to manage data transactions."
+"Backend Functionality: Handling all other functionalities such as booking, appointments, dues management, and order tracking through robust backend API services."
+"Data Collection: Gather domain-specific data including FAQs, appointment details, and patient interactions."
+Preprocessing: Clean and preprocess the data to ensure it is suitable for model training.
+Training: Utilize QLora training platforms to train the LLaMA or Mistral models on GPU resources.
+Fine-Tuning: Fine-tune the model using QLora Models.
+Evaluation: Evaluate the model performance and make necessary adjustments.
+"Programming Language: Python, Javascript"
+AI API: FastAPI
+Backend: Django
+LLM Models: LLaMA/ Mixtral
+Database: Postgres
+Vector Database: ChromaDB (for vector storage)
+API Framework: FastAPI
+SMS Integration: Twilio
+Hosting: AWS/ GCP/Azure
+Performance: The accuracy and relevance of responses during testing phases.
+Resource Efficiency: Ability to run efficiently on CPUs and low VRAM GPUs.
+Scalability: Ease of scaling the model for increased usage without significant degradation in performance.
+Compatibility: Integration with existing infrastructure and ease of use in the deployment environment.
+Accuracy Tests: Evaluating the correctness and relevance of the responses provided by the models using a diverse set of queries.
+Resource Utilization Tests: Monitoring CPU and GPU usage to ensure models run efficiently on limited resources.
+Latency Tests: Measuring response times to ensure the chatbot can handle real-time interactions smoothly.
+Scalability Tests: Testing the models under increased load to ensure they can handle a growing number of users without performance issues.
+"Mistral 7BOverview: Mistral 7B is known for its efficiency and ability to provide accurate responses with lower computational requirements.
+Strengths: High accuracy and relevance in responses, efficient use of computational resources, and good scalability.
+Use Cases: Ideal for scenarios requiring fast and accurate responses with minimal resource usage."
+Overview: Mistral 7B is known for its efficiency and ability to provide accurate responses with lower computational requirements.
+"Strengths: High accuracy and relevance in responses, efficient use of computational resources, and good scalability."
+Use Cases: Ideal for scenarios requiring fast and accurate responses with minimal resource usage.
+"Llama 2 7BOverview: Llama 2 7B builds on the strengths of its predecessor with improvements in performance and efficiency.
+Strengths: Enhanced accuracy, better resource utilization, and improved response times.
+Use Cases: Suitable for deployments where slightly better performance is required without significantly increasing resource consumption."
+Overview: Llama 2 7B builds on the strengths of its predecessor with improvements in performance and efficiency.
+"Strengths: Enhanced accuracy, better resource utilization, and improved response times."
+Use Cases: Suitable for deployments where slightly better performance is required without significantly increasing resource consumption.
+Overview: Mistral 7B is known for its efficiency and ability to provide accurate responses with lower computational requirements.
+"Strengths: High accuracy and relevance in responses, efficient use of computational resources, and good scalability."
+Use Cases: Ideal for scenarios requiring fast and accurate responses with minimal resource usage.
+Overview: Llama 2 7B builds on the strengths of its predecessor with improvements in performance and efficiency.
+"Strengths: Enhanced accuracy, better resource utilization, and improved response times."
+Use Cases: Suitable for deployments where slightly better performance is required without significantly increasing resource consumption.
+"Llama 3 8BOverview: The latest in the Llama series, Llama 3 8B offers the highest performance among the three models under consideration.
+Strengths: Superior accuracy and relevance, efficient performance on low VRAM GPUs, and excellent scalability.
+Use Cases: Best for applications needing the highest accuracy and capable of handling more complex queries while still being resource-efficient."
+"Overview: The latest in the Llama series, Llama 3 8B offers the highest performance among the three models under consideration."
+"Strengths: Superior accuracy and relevance, efficient performance on low VRAM GPUs, and excellent scalability."
+Use Cases: Best for applications needing the highest accuracy and capable of handling more complex queries while still being resource-efficient.
+"Overview: The latest in the Llama series, Llama 3 8B offers the highest performance among the three models under consideration."
+"Strengths: Superior accuracy and relevance, efficient performance on low VRAM GPUs, and excellent scalability."
+Use Cases: Best for applications needing the highest accuracy and capable of handling more complex queries while still being resource-efficient.
+Setup development environment
+Collect and preprocess data
+Train and fine-tune the QLoRA model
+Test various Open Source Models and evaluate their performance.
+Develop basic API endpoints using FastAPI
+"Implement frontend and backend functionalities for booking, appointments, dues management, and order tracking"
+Integrate ChromaDB for confidential data handling and RAG.
+Create API endpoints to support full functionality
+Conduct initial testing and validation
+Integrate Twilio for SMS functionality
+Integrate payment gateway.
+Implement payment processing for premium features.
+Deploy the solution on cloud infrastructure
+Conduct thorough testing to ensure reliability and performance
+Implement periodic test transitions and demos
+Optimize for production and prepare for launch
+Deploy the solution on cloud infrastructure
+Conduct thorough testing to ensure reliability and performance
+Implement periodic test transitions and demos
+Optimize for production and prepare for launch
+Perform the final round of testing and bug fixes.
+Prepare documentation and training materials.
+Provide post-launch support and maintenance.

@@ -1,0 +1,157 @@
+"Healthcare AI ChatBot using LLAMA, LLM, Langchain"
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading healthcare tech firm in the USA
+Industry Type: Healthcare
+Products & Services: Healthcare Solution
+Organization Size: 1000+
+"Use of open-source LLM models like Llama, with training on custom data."
+Implementation of Q&A from custom static data.
+SaaS deployment to serve multiple hospitals/practices.
+Demonstration of sample chats using the custom-trained model early in the project.
+"Deployment on optimized servers (preferably CPU-based for execution, GPU-based acceptable for training)."
+"Periodic testing, transition, and demos before payment release."
+Provision of APIs for communication with databases to fetch dynamic data.
+Model Training: Train the Llama model with custom data specific to eye care patient queries.
+"API Development: Develop APIs to communicate with the hospital’s database for dynamic data retrieval (appointment booking, order status, patient dues)."
+"Deployment: Deploy the chatbot as a SaaS solution using optimized servers (CPU for execution, GPU for training)."
+Testing and Demo: Conduct periodic testing and demos to ensure functionality and transition smoothly.
+Sample Chat Demonstration: Provide sample chats to demonstrate the effectiveness of the custom-trained model.
+"Llama or another suitable open-source LLM model, trained with custom data only."
+"Python (preferred), with a possibility of using C# for backend implementation if feasible."
+"Optimized CPU-based servers for execution, with GPU-based servers for initial model training."
+Custom-developed APIs for database interaction.
+Custom-Trained LLM Model:A Llama model trained with custom eye care data.
+A Llama model trained with custom eye care data.
+"APIs:APIs to handle appointment bookings, order status checks, patient dues reviews, and statement sending."
+"APIs to handle appointment bookings, order status checks, patient dues reviews, and statement sending."
+"SaaS Deployment:Deployment of the chatbot as a SaaS solution, accessible by multiple hospitals/practices."
+"Deployment of the chatbot as a SaaS solution, accessible by multiple hospitals/practices."
+Sample Chats:Demonstration of the chatbot’s effectiveness with sample chats using the custom-trained model.
+Demonstration of the chatbot’s effectiveness with sample chats using the custom-trained model.
+"Documentation:Detailed documentation of the technology stack, APIs, deployment steps, and user guide."
+"Detailed documentation of the technology stack, APIs, deployment steps, and user guide."
+A Llama model trained with custom eye care data.
+"APIs to handle appointment bookings, order status checks, patient dues reviews, and statement sending."
+"Deployment of the chatbot as a SaaS solution, accessible by multiple hospitals/practices."
+Demonstration of the chatbot’s effectiveness with sample chats using the custom-trained model.
+"Detailed documentation of the technology stack, APIs, deployment steps, and user guide."
+"Improved Patient Experience:Patients can easily book appointments, track orders, and get answers to their queries, leading to higher satisfaction."
+"Patients can easily book appointments, track orders, and get answers to their queries, leading to higher satisfaction."
+"Operational Efficiency:Automation of routine tasks reduces the workload on staff, allowing them to focus on more critical tasks."
+"Automation of routine tasks reduces the workload on staff, allowing them to focus on more critical tasks."
+"Cost Savings:Utilizing open-source tools and optimized servers minimizes costs, avoiding recurring expenses associated with licensed software."
+"Utilizing open-source tools and optimized servers minimizes costs, avoiding recurring expenses associated with licensed software."
+"Scalability:SaaS deployment allows multiple hospitals/practices to use the chatbot, enhancing scalability and reach."
+"SaaS deployment allows multiple hospitals/practices to use the chatbot, enhancing scalability and reach."
+"Data-Driven Insights:Custom APIs enable real-time data interaction, providing valuable insights into patient interactions and operational metrics."
+"Custom APIs enable real-time data interaction, providing valuable insights into patient interactions and operational metrics."
+"Patients can easily book appointments, track orders, and get answers to their queries, leading to higher satisfaction."
+"Automation of routine tasks reduces the workload on staff, allowing them to focus on more critical tasks."
+"Utilizing open-source tools and optimized servers minimizes costs, avoiding recurring expenses associated with licensed software."
+"SaaS deployment allows multiple hospitals/practices to use the chatbot, enhancing scalability and reach."
+"Custom APIs enable real-time data interaction, providing valuable insights into patient interactions and operational metrics."
+Name: John Doe
+"DOB: January 1, 1980"
+"Preferred Appointment Date: June 10, 2024"
+"Preferred Time: Morning, if possible"
+"Reason for Visit: Blurred vision and eye discomfortPlease call me back at your earliest convenience to confirm the appointment or suggest an alternative time. You can reach me at the contact number provided above. Thank you.Best regards,John Doe"
+Phone Number: 555123456
+Email: hello@blackcoffer.com
+Ales Bru
+Juhn Smith
+Adam Blake
+10:00 AM – 10:20 AM
+10:20 AM – 10:40 AM
+12:20 PM – 12:40 PM
+"Patient Information:Name: John Doe
+Date of Birth: January 1, 1980
+Contact Number: (555) 123-456
+Email: hello@blackcoffer.com"
+Name: John Doe
+"Date of Birth: January 1, 1980"
+Contact Number: (555) 123-456
+Email: hello@blackcoffer.com
+"Appointment Details:Date: June 10, 2024
+Time: 10:00 AM
+Provider: Ales Bru
+Reason for Visit: Blurred vision and eye discomfort"
+"Date: June 10, 2024"
+Time: 10:00 AM
+Provider: Ales Bru
+Reason for Visit: Blurred vision and eye discomfort
+Name: John Doe
+"Date of Birth: January 1, 1980"
+Contact Number: (555) 123-456
+Email: hello@blackcoffer.com
+"Date: June 10, 2024"
+Time: 10:00 AM
+Provider: Ales Bru
+Reason for Visit: Blurred vision and eye discomfort
+Parent’s Name: Olivia Brown
+Child’s Name: Lily Brown
+"DOB: June 1, 2012"
+Preferred Appointment Date: Next Tuesday
+"Preferred Time: Afternoon, if possible"
+"Reason for Visit: Difficulty seeing the board at schoolPlease call me back at your earliest convenience to confirm the appointment or suggest an alternative time. You can reach me at the contact number provided above. Thank you.Best regards,Olivia Brown(555) 789-0123"
+Phone Number: (555) 789-0123
+Email: hello@blackcoffer.com
+DOB: 12-05-2000
+Dr. Emily Thompson
+Dr. Mark Davis
+Dr. Susan Lee
+2:00 PM
+2:20 PM
+3:00 PM
+"Patient Information:Parent’s Name: Olivia Brown
+Child’s Name: Lily Brown
+Date of Birth: December 5, 2000
+Contact Number: (555) 789-0123"
+Parent’s Name: Olivia Brown
+Child’s Name: Lily Brown
+"Date of Birth: December 5, 2000"
+Contact Number: (555) 789-0123
+"Appointment Details:Date: June 18, 2024
+Time: 2:00 PM
+Provider: Dr. Emily Thompson
+Reason for Visit: Difficulty seeing the board at school"
+"Date: June 18, 2024"
+Time: 2:00 PM
+Provider: Dr. Emily Thompson
+Reason for Visit: Difficulty seeing the board at school
+Parent’s Name: Olivia Brown
+Child’s Name: Lily Brown
+"Date of Birth: December 5, 2000"
+Contact Number: (555) 789-0123
+"Date: June 18, 2024"
+Time: 2:00 PM
+Provider: Dr. Emily Thompson
+Reason for Visit: Difficulty seeing the board at school
+Dr. Robert Anderson
+Dr. Laura Bennett
+Dr. Michael Clark
+"Monday, 10:00 AM"
+"Wednesday, 10:20 AM"
+"Friday, 10:40 AM"
+"Patient Information:Name: Johnathan Smith
+Date of Birth: April 3, 1982
+Contact Number: (555) 123-7890"
+Name: Johnathan Smith
+"Date of Birth: April 3, 1982"
+Contact Number: (555) 123-7890
+"Appointment Details:Date: Monday, next week (June 3, 2024)
+Time: 10:00 AM
+Provider: Dr. Robert Anderson
+Reason for Visit: Bl"
+"Date: Monday, next week (June 3, 2024)"
+Time: 10:00 AM
+Provider: Dr. Robert Anderson
+Reason for Visit: Bl
+Name: Johnathan Smith
+"Date of Birth: April 3, 1982"
+Contact Number: (555) 123-7890
+"Date: Monday, next week (June 3, 2024)"
+Time: 10:00 AM
+Provider: Dr. Robert Anderson
+Reason for Visit: Bl

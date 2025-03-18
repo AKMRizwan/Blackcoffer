@@ -1,0 +1,62 @@
+Electric Vehicles (EV) Load Management System to Forecast Energy Demand
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading energy consulting firm in the USA
+Industry Type:  Energy
+"Services: Energy solutions, Consultancy"
+Organization Size: 100+
+Project Objective
+Create a Machine learning solution to manage electricity for electric vehicles.
+Main Tasks:
+Percentage probability of  user plugin his vehicle today by user’s plugin date history
+Reduce the probability of plugin time according to user’s plugin time history
+Project Description
+We need to calculate the date and time probability that the user will plugin his vehicle today based on his plugin date and plugin time history. We also need to decrease time probability based on the user’s past time range.
+Our Solution
+We converted the user’s plugin data into binary values like 0 if the user hasn’t plugged-in his vehicle on that day and 1 if he plugged-in. We identified the driven distance based on the amount of charge used between two plug-in times. Then we trained the Ridge Regression ML model for identifying each day driven kilometer. From these kilometres we have identified the probability that user’s will plug-in today and it will increase day by day till the user does not plug-in his vehicle.
+For time probability we have used Probability Distribution Function (PDF) and Cumulative Distribution Function  (CDF). These functions will decrease probability according to the user’s time range.
+Project Deliverables
+2 python scripts to:
+Train regression model every day.
+Use model weights to generate probability values.
+Tools used
+"Google Colab, VS Code, Google Drive, and MS Excel."
+Language/techniques used
+"Python programming language, Data Analytics with numpy and pandas, Data Visualization with matplotlib, Statistics and Mathematics, Machine learning with SKlearn."
+Models used
+Ridge Regression Model
+Skills used
+"Data Analytics, Data Visualization, Machine learning, Python, Statistics"
+Databases used
+local data from MS Excel Sheet
+What are the technical Challenges Faced during Project Execution
+There are a lot of challenges faced during project execution
+"At the start, we have only imaginary data so need to convert in a good format to apply machine learning models."
+Find the best machine learning model for the data.
+Decrease the time probability according to user’s time range
+How the Technical Challenges were Solved
+We have converted the data into weekday’s binary values like marked 0 if not plugged-in vehicle on that day and 1 if plugged and calculated driven distance by amount of charge used between two plugin dates.
+"Tried different regression based machine learning models like Random Forest Regressor, XGBoost Regressor, Ridge Regression and checked accuracies of all models and choosed best one."
+For decreasing time probability we used Probability Distribution Function (PDF) and Cumulative Distribution Function (CDF). These functions decrease probability according to the user’s time range.
+Project Snapshots
+https://lh3.googleusercontent.com/Df0tVGgBCpTmJbX7YZzU1OOJqhXBRuSuI8Nx7ptZitJfQGN9B8Hu2lNq6vGWGiZnvtrOerY6l4-26LvkQXYeQxA5y0CQiZYwpaWm-cBC_O6xPopE2O9VxxpDirjrI1lfFa0k-Wu6
+https://lh4.googleusercontent.com/G_dgb1x0cg28wdr_7kYm6rZ8Xzj_iqjG3baMU2aNvvzNQGiy9lUtnkZJOCcFKIPH6bgpvGwMfoHQxlGjVxUM_nZ0KLEkGSGutYBRg-_I6Y1oo28apxmR9fS11Budqlwdy-omZJJK
+https://lh5.googleusercontent.com/mBxJAdsthvGe98jBoVlfn8Ea3uefYCqmMPxMJLHxjBTy3AqEq8OHebhgLMchfT_UWd_xJxENVC8cJNBTm_e4lLD31sEJdGCklQ-ACza6QMmRyLzn5c0hwBPdq7_N2Qzomn--mrP6
+https://lh6.googleusercontent.com/OLJVMf14wD0yDDZjZAgo89vap5UNYmvQgABH2t5wDA1CDCIYR5z477H7VooOv4O9b-Vugb_ZJ_j5C_iFyVDloga3wycu43-5MRRCc4s8liEbd6z6WgadeDIiFetoCF4B74CXKeWG
+https://lh5.googleusercontent.com/U6mwOqSntzNs_S5FivC-j9lHcN4Qjanqa-mVKEnazFGrRx1YSCO108LQcMGFkt5NVOfwpmUrepPQLpK3-pBJQSD4hrIABmXl7dqRYerfgD90QTd0GFHJqOByZ0REsHPsyTNGDwbp
+https://lh3.googleusercontent.com/56BeGHuoHUYpEx3MKSmBbq2ZeG3HgEX4pnMdKy2uhtGIjD0-eboI1X1z0fDTArWraED0bpfgW4y4JhQJTrqlRvKaOVvyKOBNH20-vysF-DQhIYSk1E7VGfcMiek2SwkDuxiPPujc
+""
+""
+https://lh5.googleusercontent.com/mVrNIiH39yy7HwAhpfKHNeQPZPFzDaDfcx1CuCdOrc8h7VJ3mhHeZzzRUYeoDR4mOEWFKuUsnvgTziu2KDf2SuUaslTUrPH_6CgpXd3Crnf_6IkNDQsV0CbwqcugwX3XRwIJUua5
+https://lh6.googleusercontent.com/r9xZCxP4VvrGJfRbhhtKW-K3t5k1XVs8OoluxKdZF0pS43u8d3vqn0Prh6aiSZOHvSGIwDx5tL4q_rQJaZokUcRV8AiB8DtD2IfFP7hXA8rnMh_di5vW38n-GA3ENM3qOtegp-Kg
+Percentage probability of  user plugin his vehicle today by user’s plugin date history
+Reduce the probability of plugin time according to user’s plugin time history
+Train regression model every day.
+Use model weights to generate probability values.
+"At the start, we have only imaginary data so need to convert in a good format to apply machine learning models."
+Find the best machine learning model for the data.
+Decrease the time probability according to user’s time range
+We have converted the data into weekday’s binary values like marked 0 if not plugged-in vehicle on that day and 1 if plugged and calculated driven distance by amount of charge used between two plugin dates.
+"Tried different regression based machine learning models like Random Forest Regressor, XGBoost Regressor, Ridge Regression and checked accuracies of all models and choosed best one."
+For decreasing time probability we used Probability Distribution Function (PDF) and Cumulative Distribution Function (CDF). These functions decrease probability according to the user’s time range.

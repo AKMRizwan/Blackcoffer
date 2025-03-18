@@ -1,0 +1,66 @@
+Creating a custom report and dashboard using the data got from Atera API
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading Marketing firm in USA
+Industry Type:  Marketing
+"Services: Marketing, consulting, ads, business solutions"
+Organization Size: 20+
+Project Description
+"Atera.com is used as our RMM, we have an agent on every machine. Which tracks the if a machine goes down, initial response time etc.., The website doesn’t provide any standard reports, So we needed to create a custom report."
+Our Solution
+Importing the data from Atera API into Jupyter
+Using Web Scraping download the JSON data
+Convert the JSON data to Data Frame and download it into PC.
+Clean the data with only required columns
+Upload the data into google sheets.
+Connect google sheets and google data studio
+Create the dashboard with the data
+Tools used
+"Python (Pandas, requests)"
+Google Sheets
+Google Data Studio
+Skills used
+Analytics
+Programming Language
+Databases used
+Contacts.csv
+Customers.csv
+Tickets.csv
+Alerts.csv
+What are the technical Challenges Faced during Project Execution?
+I found it difficult on downloading the data.
+How the Technical Challenges were Solved
+"Once I figured I have been using the wrong Authorization key to login I was able to solve the issue, and convert the curl command into python"
+Project Snapshots
+https://lh6.googleusercontent.com/DPaGHj3CIl4QqyvcC3vYaYpNj_sqbmJ1zHczcq3Mp7kGKKihG9Gq_bHtG0SmCn5tHcbRZJIu2IIPRNqvfFPWHM_sIc_ZF84uJ7dFsR399u4kU8WtJdKeyRe_zLAWkNkrhFTmdf4c
+https://lh3.googleusercontent.com/FjoIL6fJETD5zk7UsDSOAmMKeEDLI6YZ1qw6yhg6nEgnLQPyTRocNxxtbO_7VeV-vkLqhnVU_Hs7-GP7Njw5bCm5_CoIYXz5MAT84BB542n5mEF2LbWsq9RJEXHzL9U48GZa09G4
+""
+https://lh6.googleusercontent.com/GWh64Vq2t9rvB1h0UKYUd6vbKjUv4oEXVtWlknZsXa1DV_DgxfpmcBSoUbWVGPjXu8nCgb2gr-SxXDm3Dfxyhih2_EiM-l74gnuQ3AmpQIz8_otG3V6Hc6pYKnn97q5J4i6s6j8b
+https://lh3.googleusercontent.com/sXEgJNFF7bUtlowuHSDAk5x3MKTnZkZaMKp0WBEPsosG-tsuKULF4aYmmUrHIPPA61BmubtLlfZu2V8PcxljUIeZ8PHI28rHpYwl3E5QBM8lWWYsXuz8Vg4LtBDP-xvTiAPTN9Tw
+https://lh4.googleusercontent.com/967ep1eufgtPtfHx-kuu2DZh_hvkZpOK9xQxwWUjo4dgVPynMDUlEb4fErZFXQ52haA9dmPo6L_Ee8GItJT0gdZyFuMO6TR7w92W3pSzX7uwSLY3pBCtxjbWDJ8ZKUtyNS3rdkYz
+https://lh5.googleusercontent.com/ncyDs7aTyYLA5QFxuGMaAGh4v1RkfepbQjNT9zasH__3RGPI8Kp-eGz3xqgDfjntIDyuoYF0aUcDfFPbCA6zvXZFlkksGLsRpbhh6hYElBdAOL57II7Of3FXKodPq6w9PUsaEkih
+https://lh4.googleusercontent.com/9STQ9rVgEjoy-REsb0Jb2q5wnPhemgqP62C90k6WLjMbwmUpIvaH-2fdOPuSQ5Keq6zViQfh9mb1bUWZ731MKDdAc7CGSSgzSrRdNVSH5dGbhyr2MIkRmk3_Wt8bq-rV8NoiQWtF
+https://lh3.googleusercontent.com/md98_rRPqzwM7MkF2fGbOMWHYwyLrX41ZZam7cz45wl8Gor3KqLStbxmKYRNXeIgv-B83sau-EivU3vkc5X-pvCuWBILZzIMgOkHzdr1c45HSJNJcde6gKKqxZFp8VAYNKRIm37M
+Project website url
+https://datastudio.google.com/reporting/5e61aecb-a420-41cc-afba-d0ca37f69132
+Project Video
+https://www.youtube.com/embed/UQ0Fk2F--j4?feature=oembed&enablejsapi=1
+Importing the data from Atera API into Jupyter
+Using Web Scraping download the JSON data
+Convert the JSON data to Data Frame and download it into PC.
+Clean the data with only required columns
+Upload the data into google sheets.
+Connect google sheets and google data studio
+Create the dashboard with the data
+"Python (Pandas, requests)"
+Google Sheets
+Google Data Studio
+Analytics
+Programming Language
+Contacts.csv
+Customers.csv
+Tickets.csv
+Alerts.csv
+I found it difficult on downloading the data.
+"Once I figured I have been using the wrong Authorization key to login I was able to solve the issue, and convert the curl command into python"

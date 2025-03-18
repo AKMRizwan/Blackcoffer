@@ -1,0 +1,51 @@
+BERT-Based Classification of Individuals and Organizations into Two Categories Using Natural Language Processing
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading IT & tech firm in the USA
+Industry Type: IT
+"Products & Services: IT Consulting, IT Support, SaaS"
+Organization Size: 200+
+The Problem
+This project aims to classify people and different organizations into two categories using BERT-based models for natural language processing.
+Our Solution
+Utilized pre-trained BERT-based models for text classification.
+Fine-tuned the models on the sample dataset of the provided dataset for optimal performance.
+Implemented an evaluation metric to assess the model’s accuracy.
+Giving the Classification report and accuracy.
+Solution Architecture
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhpQfubMPI0RqJWhiE1IY4ilFmfk3KegqnpcstIkl1DHar97jggPT-DM2YV5bSdyDCR1ZmxuXTxu2ITmWcZ5AmSnNnIZnBTb99_k-pbbAKsdKK_YcqN5s7baVQrZ6hwgifMl5gUyjcqbz-bylQUkXV4Yh4L-AfjfolNFi-1RFPd7YtxXf8Zw?key=iCuR9Wk21_j9ZLm6-52OBg
+Deliverables
+people-org-classification-using-bert.ipynb
+Tech Stack
+Tools used
+Kaggle notebook
+Language/techniques used
+"python, deep learning"
+Models used
+BERT Based Classifier
+Skills used
+Data Science
+What are the technical Challenges Faced during Project Execution
+The problem was the higher GPU limit is required to process the big dataset.
+How the Technical Challenges were Solved
+"We shifted our notebook from Google Colab to Kaggle Notebook as it offers more GPU usage limits. Also, we took sample data from a given big dataset and processed it quickly."
+Business Impact
+"The project successfully implemented a text classification solution using BERT-based models. The model achieved promising results in classifying people into organizational categories. The documentation outlines the steps from data loading to model training and evaluation, providing a comprehensive project overview."
+Project Snapshots
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXeSJ8uJf2Vu_IGtgBvpcVwWTpu_Q7qg3AUSLY5YlsRffC0e6Oz8ZwlmOdIff-s2YJKcQBE4epa1oMjvortQmndjiSJLLvK8gJiX6MppJc7dRM2cxYk0g0PfnTyS9x_40LdiSQTWGzwunUPzap_eRRGfw1hwMn5BozP_QQe8KgH1QOmscFLsGeg?key=iCuR9Wk21_j9ZLm6-52OBg
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXdclLUjgk3XhVhyN359lJ7knBtR6NB6Cm0OnxUU5vqJlvtxPGUOzNU5PNJAMOQ3DUnfKjvG3G-hdobblM4K8cmeJyIGJFcWwLcOzIUB4BPHFnMQej6JuJytJ1sf9AU2Umog0OCGscqxxl8E-cBw5fCE0foWTdV2lOClcLrEj1JoIp2GY0RhLvM?key=iCuR9Wk21_j9ZLm6-52OBg
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZLtsY3M1lhJH8rkE9JEYr3l2wkUeiDQ3ZCKNXE8hfTBsgxRJE9U6DiRrUBBf6oTYWHHCknVuCwFFqTrEQFchCYBU3tWstEBZzuDUlzObCKm52NigyJFgHgKlDOtQ8UhwqmKAr2vpRGqXp2hobrm_LwGTQKcpYbP1nMYsL4KD9nbem4WnmC_c?key=iCuR9Wk21_j9ZLm6-52OBg
+Project Website URL
+https://drive.google.com/file/d/1sYlohokwi6e0ITZALvBJvrJkJdL79Rm2/view?usp=sharing
+Project Video
+https://www.loom.com/share/d1390fced221473ea78d360f5c61fac5
+Summarize
+Summarized: https://blackcoffer.com/
+"This project was done by the Blackcoffer Team, a Global IT Consulting firm."
+Contact Details
+"This solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy"
+Utilized pre-trained BERT-based models for text classification.
+Fine-tuned the models on the sample dataset of the provided dataset for optimal performance.
+Implemented an evaluation metric to assess the model’s accuracy.
+Giving the Classification report and accuracy.

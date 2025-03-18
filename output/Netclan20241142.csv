@@ -1,0 +1,39 @@
+Lipsync Automation for Celebrities and Influencers
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading tech firm in India
+Industry Type:  Entertainment
+Services: B2C
+Organization Size: 100+
+Project Objective
+To change the lipsing of the original video with the new replaced audio.
+Project Description
+We needed to create an output video that will have the new lipsing according to the new replaced audio. Also we will have to change the actual audio with the new audio with automated editing.
+Our Solution
+We have created two different files which will perform 2 different operations 1st will replace the original audio with new and extract only video from original. 2nd will take the muted video and replaced audio and we will get the output of the new replaced audio lipsync. This is done by pre-defined model Wav2Lip on github.
+Project Deliverables
+2  google colab notebooks
+Tools used
+github
+Google drive
+Language/techniques used
+Python 3.6
+moviepy
+ffmpeg
+Models used
+Wav2lip
+Skills used
+Python programming
+Data science
+Databases used
+Provided by the company (Hrithik Roshan video files)
+Project Snapshots
+https://lh5.googleusercontent.com/cHvBSWk3qWbooyP5AGCwpRucw6nU9O6Z9bsdLXjgTnv7dU7wK-I_7lp1nk4Bs7KoCQSOetfyVL4VvRGWCNHjR42_7sJxVtpBLVf_DJfCJ6HOfaL8Mf53Zpyt5n3wnHqkzqItKHw=s0
+https://lh3.googleusercontent.com/if_oYFnw-oXEG0D2xfSQyEsZ6Fvpz8WxCC5dC-CmT3_-YBqBqN2qJh7Xeoz_uFbJyXv0cipldD0xCDhSQfZwypl2FszE78StM9jfxfLvaXt52pVubBbB3AD7NQ6CugGedOdSijs=s0
+https://lh4.googleusercontent.com/bGOptUsS4Qd7r1Eb8gfyjAvGpEY-0bwij1ys1vkjnYq1xpPVrExfa4uQ5TDLzwppLRERYPMIDbfEcCq4DY109iHSCv1FjYstZ17p9oiouflw_lX9VKpbnp9lj_6t0YlxEIb4oSA=s0
+https://lh5.googleusercontent.com/uVcgbMeqWDECC8tY2di9ppLROWi4N_DembNk2az1o0_QV26EkJPMFsBnA06nPlpvsGxdMBDEBR9bCcg-8DtEbh5e1mSGmJfWNsPPg7E5-U1Ky0CIWS6HxECd10Aq2oSfkdqu0Z0=s0
+https://lh4.googleusercontent.com/0VdoM43ORkuaMH1R4Lf0oR6E2gh6YGPnxab5GitnGZKqCfgWPJQBJrs2zYNAz_X-hfcwvSEBOWvi6pzf6H1NpKQUXZwkpoJnT2FC7-e7GQqXsL0EC9fVT8QPvGZGjAEMTtpsHyw=s0
+Project website url
+https://colab.research.google.com/drive/18mlREpLmV9hj-uDfufkGJ_-m_E37Hct9?usp=sharing
+https://colab.research.google.com/drive/1FZHvcVKyJxOUkUFI2auPt3vTOu4jh09K?usp=sharing

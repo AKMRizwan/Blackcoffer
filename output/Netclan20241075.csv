@@ -1,0 +1,56 @@
+"Create a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single Source of Truth"
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading tech firm in the USA
+Industry Type:  Retail
+Services: Retail Business
+Organization Size: 100+
+The Problem
+The Client was using NoSql Database which was slow and did not provide real-time response for complex queries. The data had many Connections and it was difficult to represent them in NoSQL or Relational Databases.
+Our Solution
+Create a Knowledge Graph and Provide Real-time Analytics and Recommendations using Machine Learning.
+Solution Architecture
+Neo4j was Installed on a Cloud VM based on Linodes.
+Deliverables
+Knowledge graphs and Data Pipelines are used to Populate the Graph.
+API’s to Perform CRUD operations in real-time.
+Tools used
+Neo4j
+Postman
+Language/techniques used
+Python
+JSON
+Models used
+Node-Relationship model
+Skills used
+Programming
+Data Engineering
+Data Analytics
+Databases used
+Neo4j
+Web Cloud Servers used
+Linode
+What are the technical Challenges Faced during Project Execution
+Integration of Firestore with Neo4j without any native integration method or driver.
+How the Technical Challenges were Solved
+The challenge was solved by using api to retrieve data from Firestore.
+Project Snapshots
+https://lh5.googleusercontent.com/PIZiY-62-l3dykJ4toN2_6pal4tNgb4t25SRQONvLLdD6zjy6tgHy3AgDx6UHY-iznfyw3CKBlPqP6E7lFEsSSXznRS_oDkZ3LSFWCRubHOzEKBRq4Cewx3waxT3eLs5x5Aea72tCKdS7ueOTBEhVg
+https://lh3.googleusercontent.com/F9zeHqZn2cVgoAzpe2Oj6dtehHWDNBxiVGop8czlGdBq9V_PldAA3LGzeLuVVO_WKDpPb3MvTMBn2FZIq9F-H0v8xVWRC00USDYv-Pms8LrYlsEnLybXEb5VJd9ShTx1soWW7TjrcAtL61cOeuKl3w
+https://lh5.googleusercontent.com/KLQc6jtJE7wffNuV0QRKRYfcCxnFuI_6P4R0tVGU9_ryGw0-p8Z4iWOioqIvwjgMGXG1iv3iBPVUww8J-ilh8GZynK2o5K0VnJrB7IG_ppI0XDt_hEKB6Fi3Y4et0Ah6K9Pnj5VFt39mh5KZe-GPjg
+https://lh6.googleusercontent.com/0X9Mf0trz43GQD5M8qjdhDKt7zBB6-BL5L4oqYixVPv0npJzfWh6YpiG84qShxEp3E5MVCMij_5QZzIpxfDByRpTWnunojksLKjXJ13UWd4VtOjANCrc4k2HZH3s8mgKvq1kbIqr8s41kqr6tN1SSA
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+"For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you."
+Neo4j
+Postman
+Python
+JSON
+Programming
+Data Engineering
+Data Analytics

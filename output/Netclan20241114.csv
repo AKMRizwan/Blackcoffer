@@ -1,0 +1,47 @@
+Incident Duration Prediction – Infrastructure and Real Estate
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading research institution in the middle east
+Industry Type:  Research
+Services: R&D
+Organization Size: 1000+
+Project Objective
+To complete a Research Paper draft by training various Machine Learning models which can predict the Incident Duration based on various parameters given in the dataset and summarising the results.
+Project Description
+"Given a set of researches, need to analyse and compare various machine learning and deep learning models to predict the Incident Duration for the given dataset. The dataset contained Short durations as well as Long durations. Build models for each set of durations, compare and get the best out of all."
+Our Solution
+"Here, we had to predict the traffic incident duration with some machine learning tools and techniques i.e. XGBoost, SVR and Deep Learning algorithm using tensor flow. First two models were run on Python Interpreter whereas Deep learning model was run on R studio, all the three with the same dataset and then we had compared these models based on their MAE (mean absolute error). Initially, we had done a preliminary analysis of the collected incident duration data, to collect the statistical characteristics of all the variables used in our research."
+Project Deliverables
+Python Script for each model.
+Documentation for Research Work.
+Tools used
+Python Interpreter
+Language/techniques used
+Language Used: Python
+"Libraries Used: pandas, sklearn, numpy, keras, pickle"
+Models used
+XGBRegressor
+SVR
+SGDRegressor
+Sequential
+DecisionTreeRegressor
+Skills used
+"Programming, Statistical Analysis"
+Project Snapshots
+https://lh5.googleusercontent.com/v1zvBeJhquMlp0HxNGr0bpVbVnuGAzi3yheS0BOBXWoQODAQGsDCGZdhAYcr0yEnF2pevCGSZXDDrTOMFEz8hDa4o9lY2zuAgSVBGv_V1vJInM2l0nH0kdd2T6alGbLZ6DWqrnwm
+https://lh5.googleusercontent.com/iG-kkDfdhFrch9fGvKrJ2fyYOh-QKFICNUQ1mlmkgoWChgfWt7fBOT85RDHtILrnB7QdFYJmNCQVLfPZGqka-1N4C9bngntkaXJb8mmlzncnTusLzAd-tZHUj6_YFxM6UbftLy0M
+https://lh4.googleusercontent.com/RuaXaxA9T0ejtOzp6KQF9ubSJguHnGNOapz4QTm0URSHbmZE1cA4GFxwrIS1InAQqEZV9JreB0GTZj-1AIA9DvcOMZxgGMtqSSUVO56aDwWDGM_AJLF1lg0PzKD-XLokQzdeXs_e
+https://lh4.googleusercontent.com/_8WuI8qFJraN5jcfromElkgFDAUBRkx949WvOldut72j52r94NWK6mxCxLHM17qhaOMpHQ5THcKWP3IlkC_qTCRpyX1bOd2bAT8seOxJZsgCPFeQt2LKoCJWwAvkqympITVeFVvE
+https://lh4.googleusercontent.com/RUK1RKwY5XrbYykHDoQzCSnIE7N6yM6U_ZrFRi5mYJZVOUehNsjRlbAJbcRmRe5lDylrNrIlAQLpRc18gwoVMHP2SD7eP15vcdZcJ21rUXR8SL-wWk4qXt4zqP1N2eK-DD92m_Qk
+https://lh4.googleusercontent.com/ajd5s6YFMtegYcSa5B_JjKPDfzRG2psLY_qEkjqum55EYRaJBhH-n7FwNIjcIZiJZQ3rolVfsk4ZLONlkweqPFtLaGrlbA_rTzcCvpkDCwDqJC0YRWVuK5xJfkOQurU8gMVPJBoe
+https://lh3.googleusercontent.com/DMAY88DFgIiH38ZTLzGoGgVPez-IpaQI5jX9gcbdnAbxeDjzeTxO5pqe7cs5k2fQDDjMku5nSEXQHxRyHDIdt0q9Motlej-Q22AtHpok5TyVpZWAZ9VoSafX_gATUpMDR2sLItpX
+https://lh4.googleusercontent.com/uz0XScO01Kh_TEph0U45LRbL53cIjVnF8ageKL_bI_Plo6rnbYlPhfU28seAfXOc2rvau8lGWXjgO9rUQQQ81fWxElM8Yrk0cWPF1qoMsyqJr5hF6DfbNhUy8mCGlBv-yRm6tDE9
+https://lh3.googleusercontent.com/pmfw_AlleTsuQePjU3t2fVDN0rLQggAlZuol3_tQwVUXrq6BBF1hl37S7L2KQAiPkdrogUai1-ElpCAQkQ7_HbweAS6zUTu4ZHBDmZdbpiQ1QMs94Zb_T6GRpGRl9ifN3TIF2z3D
+Python Script for each model.
+Documentation for Research Work.
+XGBRegressor
+SVR
+SGDRegressor
+Sequential
+DecisionTreeRegressor

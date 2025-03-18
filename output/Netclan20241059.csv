@@ -1,0 +1,68 @@
+Data Warehouse to Google Data Studio (Looker) Dashboard
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading tech firm in the USA
+Industry Type:  IT
+"Services: SaaS, Products, healthcare, government, energy"
+Organization Size: 100+
+The Problem
+"Our client needed a Google Data Studio dashboard for different sectors such as Oil and Gas, Government, Healthcare, and Sales analysis. They want to see an analysis of data from which they can provide insights in different domains. They want us to create visual KPIs of meaningful insights."
+Our Solution
+"They provided us with data for different sectors. Using those data first we analyze the data and perform EDA on data for cleaning the data. After cleaning the data, we performed calculations to extract insights for KPIs. Using those KPIs we build a dashboard on Oil and Gas, Government, Healthcare, and Sales analysis."
+Solution Architecture
+To build the dashboard we follow the pipeline as follows:
+Data 🡪 EDA(Cleaning data )🡪 Connection(GDS) 🡪 Building KPIs(Visuals)
+Tools used
+Google Data Studio
+Skills used
+"EDA, Google data studio"
+What are the technical Challenges Faced during Project Execution
+"During the project execution, we faced the following challenges:"
+The data client provided was not cleaned.
+Data was of four different sector which we have to analyse and visualize.
+Extracting insights from data.
+How the Technical Challenges were Solved
+"To solve the technical challenges, we provided following solutions as follow:"
+Performed EDA on data to clean it and find the missing values.
+"As data was from different domains, we have analysed each sector and understand the culture of each domain. We understand the pipeline and flow of work process."
+"After completing the case study, we use calculations to extract the meaningful insights from data."
+Business Impact
+Using these dashboards client can visualize the sales insights and understand the workflow. They can take crucial decisions based on these insights which will help them to make an impact on their sales.
+Project Snapshots
+Sales Dashboard:
+https://lh3.googleusercontent.com/jXev9a75fBskTTnxq-ebiFizbAjbx4ys-T2-oPqAbkV13-QDGsnaTlJfcIt8FtWUF8DSJ0Q4arC3tDBmkZDTf9FcPegxqFPybLUiO13SIZBLoe0YB_2-tKuAbem0KpAK1mA64vsZ_xoLkDsmiMpQbw
+https://lh6.googleusercontent.com/FbAbsW3Tln2AjTl1_Uv2CrSJmKUgohtCA0lJlo6IWZ0BIur94pwvOvx7FfgHAiCcWQ8GwhcXkzSKVVXjlVH-I0obcc0RwPTruA7DOdBgvQimh41rjZwwVJTlxL78peYQdUw2I_St8IzR0QkRGKfeMg
+Government Dashboard:
+https://lh4.googleusercontent.com/Wf2qNWZUyO7rpwSq8paFLaZnXE40OR5Zv5VrVNsoiMgrwdUoGu0aJFgxdQskg_wZGSmA7-m6qf4M3FBoapCISibqt98ilFjkWoYXdquUpIIrUcKRmJoJj0DbGu80HoRJ5cMhiGwlWskpprVZmCn1CQ
+https://lh4.googleusercontent.com/bLvQOb8UMakUxtKycjN0CQe0Wi0gDB9FEotDT2AoQOQ9GwEb3kWJsPiIoyQJ_fEwjVXABWVDPDl_370C2fzppadAwALVLr8xFrh9NfMtvHS3wE_wbZBqvdJDwto3Z4uVNQKE_Ds7usmvsryNxzt1qQ
+Oil and Gas Dashboard:
+https://lh6.googleusercontent.com/qd9y3O0C2rHnB2fIlC1UVdQMUCL0xALVU00z7E4ClVzKYsEBo1fv4SL_gg2u8YJFdBj1clm3BI3PZLzHNmsBfLORndibbGmj1ployuTwtcWMmSOiCImrs5puIPNi_W4SVYD3mHfd-OLtLwLXHI7M3w
+https://lh6.googleusercontent.com/Jfz0bkfNGHQn05DkrCjFlYdqaFAWiqzJpOumE-oy_sbXk6nXpqo3qJOPYUwhdarZkwQYE5u987VR3JviCgumoXZBCfV6XqwUdCRYEmbvQxfM91f1crP_m2S-EWo10kvVIv4DYCZ0TmqYOdf2bDw3lQ
+Hospital Analysis:
+https://lh6.googleusercontent.com/tef7RTXOpAxX_OI6O8Q1wgnv05QQ6iJ3Nlv5P-WhQNC6WbykhXvBBs1u3Ue9zNS5JNX3eQsAN7CR8tCuZphCAJ9ALFvXcRobGm5n8qCwCOVXpHzz_LsYDm5-acY7DPa5IKN8Z5rwLqbW5DPiilGtHA
+https://lh5.googleusercontent.com/oxnganUPfEOINuouU7qmnZPKh6rjB6_qUODd3viuxjNWQGQr7qPk1-nCha--AiDUDXwL4Bff5DldUfARxd9RHaxV0S8xGhtlgE7u5nhAGBSwTUKLdnx-JoW3j3Q_hHjboEkW9Yt63FwszEkRkw9crQ
+Project website url
+Dashboards on Google Data Studio:
+1.Government:- https://datastudio.google.com/reporting/dda94ce8-5b77-46aa-a1e0-1a57ccaef5f9
+2.Oil:- https://datastudio.google.com/reporting/47c6529e-1355-4072-babf-1a96f9f842cf
+3.Healthcare:- https://datastudio.google.com/reporting/b1e95a11-4380-465c-ad45-2d1995c799fb
+4.Sales:- https://datastudio.google.com/reporting/36ec0e42-6b77-4fbb-9dea-760cccaa741f
+Project Video
+https://www.youtube.com/embed/h1N6SsAUeVA?feature=oembed&enablejsapi=1
+https://www.youtube.com/embed/G6SpTIMCCF0?feature=oembed&enablejsapi=1
+https://www.youtube.com/embed/Gm6OW9SgLas?feature=oembed&enablejsapi=1
+https://www.youtube.com/embed/ubrGzbmfvng?feature=oembed&enablejsapi=1
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+"For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you."
+The data client provided was not cleaned.
+Data was of four different sector which we have to analyse and visualize.
+Extracting insights from data.
+Performed EDA on data to clean it and find the missing values.
+"As data was from different domains, we have analysed each sector and understand the culture of each domain. We understand the pipeline and flow of work process."
+"After completing the case study, we use calculations to extract the meaningful insights from data."

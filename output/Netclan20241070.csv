@@ -1,0 +1,91 @@
+Equity Waterfalls Model-Based SaaS Application for Real Estate Sector
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading real estate firm in the USA
+Industry Type:  real estate
+"Services: Property business, investment, real estate"
+Organization Size: 100+
+Project Objective
+"The objective is to create software that will calculate the equity waterfalls for different cases. And there should be 3 users admin, sponsor and investor. We need to create the equity waterfall calculation according to the csv file that is shared by the client. All users have their own UI portal."
+Project Description
+"The project is created using python language, working on django rest framework and for frontend we use reactjs and the code deployed on google cloud app engine service. We need to create a software that will calculate the equity waterfalls. And there should be 3 users admin, sponsor and investor. We need to create the calculation according to the csv file that is shared by the client."
+All users should have their own UI portal.
+Sponsors can create deals and send deal invitations to all investors or specific investors.
+Investors can see all the deals that are offered by the sponsor’s. After that Investors can subscribe that deal after subscription it is depending on sponsor that he will accept the investor subscription or not.
+Our Solution
+We have created api’s that will calculate the equity waterfall calculation according to the selection of the waterfall tiers.
+Project Deliverables
+Django rest framework api’s with frontend.
+Github source code.
+Working UI.
+Tools used
+Views.
+Routers.
+Serializers.
+Serializer relations.
+Settings.
+Language/techniques used
+Python
+Django rest framework
+ReactJS
+JWT
+SMTP
+Skills used
+SMTP
+JWT
+Databases used
+Sqlite3 Database
+Web Cloud Servers used
+Google cloud platform
+What are the technical Challenges Faced during Project Execution
+The technical issues faced during the project is how to calculate the equity waterfall calculation for different tiers and different cases. And also invite the sponsors by admin or sponsors invite their investors.
+How the Technical Challenges were Solved
+We have used conditional statements in code and write different codes for different calculations. so that it will check which case we need to run and it will run accordingly.
+Added the functionality in which admin can invite the sponsors to the website and sponsors can invite their investor through sending the invitation link to their email.
+Project Snapshots
+https://lh6.googleusercontent.com/M4Ew93vnxJLc5CowPYryHvYIb3HzmDMsDVwogG_EOT1V9xJrm-sd_KzPG2W2lq_WI2bjMYoPo1gMfO6u-4uQ2013EIYrfmN9B2GyBrcjMWJPJAF4A6aXH5nMemubTeqWldtNTecjnshV2gjhrqJ9_Q
+https://lh3.googleusercontent.com/FCaWyd8Bo6pWOWgIo5g5nKqMA_tMLCZ_MB_DJ-Xn3EL3HCQkp9YOw40Jp-gY8MwftkGxtxYCfy77ve3h8I5gl1iigb0i0OPAjH6gUH9XEnQ65b-VqN0ET2lwwLLrt9eXNfEoRWpkaG8YMU8UNaDiZA
+https://lh5.googleusercontent.com/6-gGuWHJKLAk1O1C2lfHEaM_QMYTX2HkJmsWtU2O8yVoUj_rLCW3f-IdpwG8dElbEE8fLQIF5RwisEPPbPOzshmwmto6Hd9KeZw_IEicfiDXoT2uU_6vY8NJYKmc_7JHja-KAggVyzpInS0xKxLAnQ
+https://lh5.googleusercontent.com/ePay0DyNe-rzoFBDLY_N1GHEjEdZin0x47jY1MmqKX0xqMqjBzxt0tEcBQE8acOcwmzOVMMoHOulrBTpTFoFXjjEXOGtN1AiDMbdtajGIuVaiE9yt9GK7Yy12qTxEO1akNLDeK-Oqqupl4oTxMUqNQ
+https://lh5.googleusercontent.com/0FtErJZK7LcHJxYqwUemIYSY8f71vN6TnF65YoZwzUgNBxWmcr7jvmCPonDqZWKysnK1YOOkSmQMQHRv7Yb3yc92sHuHJdkXFipTOYiJhLt_SVzelxW5ogqQ-ZYquN-FTFULwCnxmw1n0eO3cnW03A
+https://lh6.googleusercontent.com/0Yl5KIIFMWh2gjxphE_g-n1OlcHGd4U7pzy2KIF297kPDv9Ghi_kprUqTqdnMKFEftnNmpPoppxiD3isr3MgoT2RtF3JkaRxmGhUwrn4ybVzK5eadmLS6VXUa0mQ5l_b-1OWNfbl3Roj0w9zdBUd9w
+https://lh6.googleusercontent.com/40HyyNbPC1p8es1hY2kyWLGa-7nq1BYdC6pPns5p4a6DIOWbZRkHLSXvQynyrs-dOjdYcsg4tQO_HyNj8lDE114DO9ueLhuQCtBPeGRtL37_ny4LV3AdShYFLQCATryyEmP1gcydGWp41QM74MHmbQ
+https://lh4.googleusercontent.com/KZESPJ1s_1H42zaYxKjqOt9J2vawiwAEenu8BkiueuZM6M9bBXbSppvqMxlgCWZDoqzDK0G--mVaXbWSJFLE4ea2uxzU98o8xE3qfs8lcbPbH0jIHcuQyfQg5hEC3P6T6vQNraQVp07fL-PrjQTXvw
+https://lh5.googleusercontent.com/pP1hkODGlGQUh-tIV6wxD98zyMyB4WZykEGlhLE65xXDDk3AfVxUt6x3JXrlfHXJyKa8ojHPNCIVgh7ob5fKtJCOx6xRdNLsW63a4WiiYmFS_XTSIWb0zlT1gxIkJV8Vzea1ibFzeCFPdd3XR82xKA
+https://lh6.googleusercontent.com/BrNyuzeZaGDQMIne23nhr7BosC7TeCKCHBZyQ3M96pfni9a0ILVqzjV8Nw0tuWN6Ac-PbQAWh6EA66EPIbVYKZnW5426sFI-E2baRu6Eppx8YYoSlFd1vFbq0xlL8Dfh0Vsweizj1OkBTq3Z0leXvA
+https://lh6.googleusercontent.com/ssOJ-sdImOL5ip8_HsSUda9lSrypYXMZTZHrjunM-1ib2jpMR_EMQSZG82ENjja9ZuNsJ3yMAdWIFjuodBbfxEFuyfxNz0cveHte-haBcnK6Er_c55fUYvUKwFxHvltNN35_n9gA0R3E0XupgU_NQQ
+https://lh4.googleusercontent.com/F4cQyo-8F9jGwf75Ri8MlRlMHtdNszEWIbCFLVqVHzw8--91nHvk2TzfQM8JJilbB5uKqoMhLtq2hTveloV9-5A2aBM3UYfLjsM2JunKD9-JwLcr5QcD--Qzc2hj4-lR-Pib5ezLtlnUGmcpjjCyrg
+https://lh6.googleusercontent.com/FJiwQaimYwtGV6w1E0viZFMXsZSzJCQj52aU-s2kDlw16VY6znZbWlwk606rKOA3KX98c1BRRmP-ls0WdxRfQbY6d53Kr9iXBfckD6Dved9q-4Dc-4sAAOJ0fFgjbbVYuKK4Nxhm6jsO3vE4ZWtv1w
+https://lh4.googleusercontent.com/WoKTN4Fg9e9wM9ZFW8Mn5TfDnGoEX7iRxZNi_L1DAFtNQu_--HxmpY0MiLE9HlutC1UC76cEU4nNvgrpTZrLI-GPpBgTuYNyCi9RaWw7NfcTtLzaVnRy_eb1fzjfCReyI13ap2NfEnN1Ep-euxUZ9Q
+https://lh4.googleusercontent.com/jIcRkO0r0RlfYx9FmDXJXYje3Wj822MI2aSUHVXovf-Zr6SgEnNT-wbb0zphyusnkcVMYt7ry-maKPnB2HJiE7kvf8l_HJJAylTkEX4KhtuZOpmQ6mtGeMyy5ym0eM_rre8pwEt79sqayxwZGi-SbQ
+https://lh5.googleusercontent.com/sRj7NdGpffbUlvn21aGv-dO3VWSzrDmrVFDUgg8y8Knk9WZrR9HMAz1bbGjEpqrVjL4Xzhiola-9M9IFzDwnEK2AYXnCmmNqxtAfgLUt1WHvC35HefeK9ZetTn3XqLScDQwpTMr-xvMFEl33AlzJGA
+https://lh4.googleusercontent.com/hxXN0VCtNisYI0xeh7ORyn7FzOOGLi4yKaG8ci81SE-PePLE9mNbmTQaX4Dt0mL0zqzDyH4JP9ZieZ_9XwAk7wC5kAzG3DmGhLn4JB1dF_u7amaiEBa3IhmbLae6Npr9f4Vc9aDfJTUx72gBkFdvbA
+https://lh3.googleusercontent.com/UtnJzPolQ2ZDyNdXbYN2sOh_p5lbzaaLJHYqIsHDcAWvr5naz4ZrsKHAhmj8ndJ2jOVDgIsW38zGWT4GwMMpOWsf4zvhOTLJdGZt5medJfYhQ7FJ5kSUa19x3ACofVyr0ubnFIvSVOXG6jqIIKrSjQ
+Project website url
+https://stackshares.io/dashboard/add-new-deal
+Project Video
+https://www.youtube.com/embed/gSpZRFuJXzY?feature=oembed&enablejsapi=1
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+"For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you."
+Django rest framework api’s with frontend.
+Github source code.
+Working UI.
+Views.
+Routers.
+Serializers.
+Serializer relations.
+Settings.
+Python
+Django rest framework
+ReactJS
+JWT
+SMTP
+SMTP
+JWT
+Sqlite3 Database

@@ -1,0 +1,111 @@
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading financial firm in Dubai
+Industry Type:  Financial Services
+"Services: Banking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTech"
+Organization Size: 200+
+The Problem
+"Build dashboards unifying all the platforms in use: Google Ads, FB ads, Appsflyer, Mixpanel, etc,in order to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel"
+Our Solution
+Track the app data analytics using various platforms
+Prepare the data sources – find and build data connectors for Google Data Studio.
+Developed 14 pages of Dashboard reports- creating templates to importing data sources and perform various visualisations.
+Maintained and tracked dashboard reports and helped the client with intelligence from these reports.
+Deliverables
+Tools used
+Google Data Studio
+Google Analytics- GA4 and universal analytics
+Google Tag Manager
+Big Query
+Firebase
+Appsflyer
+Mixpanel
+Google spreadsheets
+Language/techniques used
+Google Standard SQL dialect- bigquery
+Apps script
+Skills used
+Analytical aptitude
+Problem-solving
+Communication
+Knowledge about SQL
+Knowledge in digital marketing and strategies
+Google cloud services
+Creating data pipelines.
+Databases used
+Bigquery
+Google spreadsheets
+Firebase
+Web Cloud Servers used
+Google Cloud Platform
+What are the technical Challenges Faced during Project Execution
+Community/in-built Connectors for Appstore connect didn’t exist
+Connector for apple search ads couldn’t be found
+"Data tracking from google play console, due to the timezone lag in data updation."
+Facebook connector issues
+How the Technical Challenges were Solved
+Worked towards building the custom connector by using apple api for Appstore connect and search ads
+Utilised big query to call and store 100% accurate data from google play console and be used as a connector in GDS
+Made use of inhouse built facebook connector and google sheet add-on to track and keep connector inaccuracy check.
+Business Impact
+Helped the client to view a consolidated report of all their ad campaigns
+Calculated and executed analytics metrics which helped to track various app events and helped the business to take decisions on UX
+Consulted the client and collaborated with them in marketing and ad campaign strategies- helped them cut their marketing expenses over less efficient marketing platforms
+Created funnel reports and suggested insights on app traffic to take decisions on important landing pages.
+Project Snapshots
+https://lh6.googleusercontent.com/MTwK6L7WG89wDc_x4Ff3JAVB3St915AFUZzMT1v0InMblLjQ5HrCJyHL_udDhMKIIlBxs-SGWFFOeXCWKE3LmxmbjXP4yJ4jwBNAh7L8ZYAAl4Zw1HFNKyognOT-u2KjYvm9SxCU8Mlj6zIztnxb0Q
+https://lh3.googleusercontent.com/5D_bVyPRFZ3R1As-5755Ze-XAVjsq2AMC3KtoWqR_oGe_0yeiRan7mBDDULV62wcjiWBSiY6xrTYwIJAzYbSGZvmiajOQqB0adIl_H3G33EjDx0N3ifmfjvGX3ZAT_AHMHA45VGB--OKmuOKExLcSw
+https://lh6.googleusercontent.com/ggm4k3GeQVkWAS2aCMAmexKh1kLibaKvCe1WraI03SNCrh58iS51HJ_otNilLmMX7sAxtss959TaX5BPEXbQmEKLQ2Ioc1Ob_3lURHtInl0dTPWd_-eDzh9IASw8ryC2QlcSNmS2WAHxldf4kSNCvg
+https://lh4.googleusercontent.com/K8yYWmp3FJKOPQh4f39Qo0RVmBnIU8EFht6-ZSTpHVV82bnDmf0eivVroOlLoyZr0fC6q91AaEAg082TAx5q-v-uXJ1odWDOQQ2BmUb9Z7EMB_OiGVY09ivdlJSU4EBTbHEjAuTl0cD_chKIOwpdNQ
+https://lh5.googleusercontent.com/CYF-oYp59C4_L6WqGrQuUCoIusByfjjHEF8qVWxHNnmDWhXaoXbCMlS5zuY4Eo2WxkHNdXa8lah9Q2Lm0xEo-sevpv2hkJb0lQzKUirdIXrfEJ676-m0mAJpRek5xB19BmMGBfY8Ub-ofj8656eyfQ
+https://lh3.googleusercontent.com/kJV4xcgHZUNCOIQ1zMdtdvjkjMx1YiVf45Asp41M8pM2v7BBwRFCSj1DRHq6CF_458M33vlGphb2l2YA1DEaflCpzW_pELa4ayOEjvL1VjFgAyE_VYJ8rLXPlvBdMAKtWYfPDRJjZ-Ei9aV4Cik4bw
+https://lh5.googleusercontent.com/z9_kxUWWqQ493xF69R8LhQn_M57meDW_Ve1aiL8PqMjjLhxXkCflCLzSuuyAU3Di2F8sO-CVi5gzGhUaGosuZVzQnNOrMuuG8Kw2K8edLwH_ItDHTiJdYEYlAPkymsXAWHIp9jNnVaGUONNbyXG8qw
+https://lh5.googleusercontent.com/tKRQedgNj2Loy7WsqjhjAufQyQPC7wP3CI2D5cSQtDr7f6SxAJHLO0UWqK12IBnlmqQ-j0yD23CdzrrY-Ymjyb1i14qMWWALajoVTE-mEEbdb_W2dwBgGr4z6wqJTvb4-FX8Q1ne_m7ZH3YSimUTdw
+https://lh3.googleusercontent.com/GpET0J_-ZAeVGdvxqEG11JsQOyB26V_Zh1jvRD7qWzAmVuVa_oqxS3_b61FCaB4o9KMcpHr3HG-2DE2SKGzOTcu-EpPOohzCbhLxRV3YDBzAOYWydHigDmNxLxv5Y_sKQq86KUxUeSCaWLYDwHmWjA
+Project website URL
+https://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9f
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+"For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you."
+Track the app data analytics using various platforms
+Prepare the data sources – find and build data connectors for Google Data Studio.
+Developed 14 pages of Dashboard reports- creating templates to importing data sources and perform various visualisations.
+Maintained and tracked dashboard reports and helped the client with intelligence from these reports.
+Google Data Studio
+Google Analytics- GA4 and universal analytics
+Google Tag Manager
+Big Query
+Firebase
+Appsflyer
+Mixpanel
+Google spreadsheets
+Google Standard SQL dialect- bigquery
+Apps script
+Analytical aptitude
+Problem-solving
+Communication
+Knowledge about SQL
+Knowledge in digital marketing and strategies
+Google cloud services
+Creating data pipelines.
+Bigquery
+Google spreadsheets
+Firebase
+Google Cloud Platform
+Community/in-built Connectors for Appstore connect didn’t exist
+Connector for apple search ads couldn’t be found
+"Data tracking from google play console, due to the timezone lag in data updation."
+Facebook connector issues
+Worked towards building the custom connector by using apple api for Appstore connect and search ads
+Utilised big query to call and store 100% accurate data from google play console and be used as a connector in GDS
+Made use of inhouse built facebook connector and google sheet add-on to track and keep connector inaccuracy check.
+Helped the client to view a consolidated report of all their ad campaigns
+Calculated and executed analytics metrics which helped to track various app events and helped the business to take decisions on UX
+Consulted the client and collaborated with them in marketing and ad campaign strategies- helped them cut their marketing expenses over less efficient marketing platforms
+Created funnel reports and suggested insights on app traffic to take decisions on important landing pages.

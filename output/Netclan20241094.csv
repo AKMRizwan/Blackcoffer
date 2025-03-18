@@ -1,0 +1,45 @@
+Design and develop solution to anomaly detection classification problems
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A Leading Tech Firm in the USA
+Industry Type: IT Consulting
+"Services: Software, Consulting"
+Organization Size: 100+
+Project Description
+We need to create a notebook with solutions to binary classification-related anomaly detection problems. We need to use machine learning and deep learning models which have greater than 90% accuracy.
+Our Solution
+We created a notebook for anomaly detection. We used 10 to 15 machine learning and deep learning models but only  3 different types of auto encoder models that were giving greater than 90% accuracy. We trained all 3 models on one classification data which have anomalies and evaluated trained models on test data.
+Project Deliverables
+A notebook that has solutions for anomaly detection related classification problems and accuracy should be above 90%.
+Tools used
+"Google colab notebooks, Tensorflow, Google drive"
+Language/techniques used
+"Python programming language, Machine learning, Deep learning, Data analysis and Data visualization."
+Models used
+Auto Encoder and Variational Auto Encoder
+Skills used
+"Python, Data Analysis, Data visualization, Machine learning, Deep learning."
+Databases used
+MS Excel
+What are the technical Challenges Faced during Project Execution
+Most of the anomaly detection models work with regression type data and this problem was classification problem so we need to deal with classification data.
+Getting high accuracy is also a tough challenge for us because there are only a few models which work well on anomaly detection related classification problems.
+How the Technical Challenges were Solved
+"So we have limited models for this problem so we used only classification models like Autoencoders, Isolation forest and one class svm."
+Only Autoencoder was giving high accuracy so we worked with different types of autoencoders like variational autoencoder and normal autoencoder.
+Project Snapshots
+https://lh5.googleusercontent.com/2xiSQiDvBAaqeDxWFPw7lMl1DXI0IkvrtDBo6p2qBf4AP1nwvGIxfuru6lmhn5O0wg-ROlKRKLKDrbLZGU6FC4AIkG1Uw4OWbLFkkQg5-K9btCnCP-KrtpGZZiZUO1LGH3zjsz5zrWlvSGerBPqw9w1Xi1uECaKJ9SZFyRoz_NdUsMvUexaewAat54ddETNNd-G55A
+https://lh6.googleusercontent.com/rrm-YNnvJDJCnYcTYfMyw_-PWjojwBNYkasJ1vZaZore1BxIOWPzKM2DaCkKI-aMgVTIxy0gJPHPYTDc0O_XL7XyZu4LCe3c95YiUkl2nZQgI9V9gtAFjb5MmdG98VruE3qB6tLGL65N82nZR7_uO8_KcUX7HzOcvzTlZZuINhBeC3Nt5zV8_PNgNjAcg0uC0c5z7Q
+https://lh4.googleusercontent.com/qcmjtDOfgVb_hdTPAKU1wIgGus1J5lI_enLCh9XVeKBsVoRxxmknRhk2VWo29wvSV2Y7gjmG4wyNRpcbX2i8V7aXuoGcQUSwF0u2rsmqFlXs64hvHbE3Moo6AbCRh6i5RTt4Dllwpka-TRSrkIqqOqok4SptlBGBHk-HtOt2aFHUIUPyv-W8naWFFZISo8QAL7J6UA
+https://lh4.googleusercontent.com/Vhe_HxPnkeGrW_OOunjMtg6QnkTsixDrUxG5OIHX4pI1-fuCZeiX3SVIhQhv55o_dZz7OVqI6KPkVt9Tc1Z7rkHTirIReKFFFg51erNCWkHTfJwY0FfN1hvzK_Ie3y_OKejo4Sc1gQPgVinJZ6VJgVdGR6UsavCmolWS3VgEgdKK8T2J-qzRaHyCrbg_YRD_7BAS0A
+https://lh5.googleusercontent.com/d4tri7x85gSipP6IK_pFSK9Q9MR1QQ0idzV0DXIVTqqnVfYX0Y9WQm3tNdyZWHADkuQfB9gIgcj4s_RFTBK0P_1iiVorcaLj4qupKsG-yTGbY0IR5-6P8Aagc28x8lMJPxJIQcnGBOBNWYH3WZ3UUetyk-WpaCi9TI8sxTzYTJJwc47d_-Selc3bGCDHUAHrInXm5Q
+https://lh4.googleusercontent.com/ufgt86LUxNhWr1tENvsMr_-zMpJzeV0zX3NVL7py5sM3ZcYuJEwAE1qdU28gG0ZjP2HXRg7a2_JHiDZGfOoFPMb5SnzUs89E9RALXc30whq3Bn9UAzwPl_59QOeuCqxgyZkf-_TxqNSBv3m8ZAUOmsQfBCes_tAEyOnOQxcIq6bZddr1s4k7l3Lu1A0rORjgob9Osw
+https://lh3.googleusercontent.com/fhIgp423G83pda_t9psCEfpzIn_Ry0JMk-M0BRHNy6tgl4gnkMSyk3iCLC29qq7b4xTlkly2BcOfkLnVw6r04ic0D5VloRnfw743su_B0w3yXa1Tw2fzi3b9EyINYw6iHbNCm-7XI_i4Bn-k25NlgzoOBKAHD0c8xYEaiNH9E6AAHIakVJTxhzj5lR8hcH-bnOoDVQ
+https://lh5.googleusercontent.com/npShm3DDVxFlZgiY9nb7PAC1MazxbkX7fdT_QMarBKq9wn7zJaCk5zhJUZ-zjujpQBesg3Td-r5rdXRltcvH4-ScqzeDGNIA3c5bkFev9xW4eQ7Jw7Mk6z3HgE2u9ZBAJjOqQbK4ioP71mHUIsm-8jfgU_A98mlFt21kg-YGjMG0-5GQ_CfS1QAz8KOjPawJfgrCGg
+https://lh4.googleusercontent.com/ugtq5qHjLAqXMUu0KBEX45Manf2L8L8Q5-l-rXEW2MeWidl2siaHIkMHnankcxKXzjrgAvfC9QMVslkB79WEETNdzG1o0TZyXYf16KVQJNG3DMre_B6rSdqWXCwcs7-atEJjXY7iJ6QWx3eh42z7vy3Ugj4tSfie6Dl9Y9BG6E2tBxyVW55bhHgSdX5ymxdq42BHlA
+https://lh4.googleusercontent.com/9T8kndiJDNTpehRc8gCAPx_LiSva7SU3UDUANyVkt257C7s1Vbj4rSfh63Wzmw6bBkyQkgYYMFwBsbKT-33osYaQiJB_HSacQeBs8hUmvRixtotc4NxT4as51NLxLyscqIDDf7wxPajqnJm7Nisc7z6yzcKVFLEwgw-Xw7TGW_Pb54puC4D35gGJRoEFzFtj2wKx_Q
+Most of the anomaly detection models work with regression type data and this problem was classification problem so we need to deal with classification data.
+Getting high accuracy is also a tough challenge for us because there are only a few models which work well on anomaly detection related classification problems.
+"So we have limited models for this problem so we used only classification models like Autoencoders, Isolation forest and one class svm."
+Only Autoencoder was giving high accuracy so we worked with different types of autoencoders like variational autoencoder and normal autoencoder.

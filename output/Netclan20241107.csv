@@ -1,0 +1,80 @@
+An AI ML-based web application that detects the correctness of text in a given video
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A Design & Media firm in the USA
+Industry Type: Marketing
+"Services: Consulting, Software, Marketing Solutions"
+Organization Size: 100+
+Project Objective
+Create a python web application that detects the text and checks the spelling of written text in the videos and prints the count of wrong spelling in the end
+Project Description
+Developing a dockerized Django web application for detecting the text and checking the spelling of written text in the video and printing the count of wrong spelling in the end and deploying the application on google cloud
+Our Solution
+We have created a python web application with Django framework when user uploads the video the application run keras-ocr model on each frame of the video and keep the count of the wrong words at the end it provides the video with the bounding box around the words. For correct words it creates green bounding box and for wrong words it creates red bounding box and also it provides the summation of count of wrong words.
+Project Deliverables
+Deployed dockerized web application on google cloud which generate video with bounding box around texts
+Tools used
+Docker
+Redis Server
+Django
+Celery
+Nginx
+Opencv
+NLTK
+Moviepy
+Language/techniques used
+Python
+Html
+CSS
+JavaScript
+Models used
+We have used keras-ocr model for detecting the text form the video and creating the bounding box around the words
+Skills used
+"Natural language processing,"
+"Machine learning,"
+"Image processing,"
+"Web development,"
+Python programming
+Databases used
+"Django Sqlite3,"
+Redis Server
+Web Cloud Servers used
+Google cloud
+What are the technical Challenges Faced during Project Execution
+Running model on each frame of the video
+Show progress bar for the progress of the work
+How the Technical Challenges were Solved
+For running the model on each frame of the video we have used celery it runs the model in the backend of the application
+We have used celery backend progressrecorder and updated it every time when model has detected the text from the frame of the video
+Project Snapshots
+https://lh3.googleusercontent.com/RATcpojNI4wOmezlSlmyRVfT3bH3GjZlAZ6wAgVl1PwO94alYrHiHz6qb2_oE1wI8uil7SVWHAnrZhkvd-Vi6R-2fCg80_qCJ7I5eBz9sJLu1HCt5SbA7YDrsq5fZurMqkryqsXUPAaCIP3EJA
+https://lh5.googleusercontent.com/mWoOPvJDW0qkIJKyl5lrop0TlBIS0SPXNow9t3L0n56QXrVe5_xUuxpJUkOQTFDJ3QnC7Gg1rfXDMcqPdeHisXVQQd6Mk4iwcxGwRLXAxDFvgTUA_bdicAxnl0QsNeM137ytbDy_KJ9SgMOQQA
+https://lh6.googleusercontent.com/I18705XTPW2iBzCNiKZ6BthC0rRBoyigeFJCJo80lJJNeAWSYYu9AF2jvMMyBtVT0t8D5sA6GqTVAD9SqV4Ykyq4Kc7MEqFrWYF-Ln6rGU52eMxcaE7T2AZhg2BJ1NshGe96TCrgakSWqxgO2g
+https://lh5.googleusercontent.com/Rufm07oLMNDSCXkqSp3iQGqpyJW4K-1UqgAEzeggJws6l89SB6hf0kl43KxICrUpZ7m5BoSjqFqR0bgZFEP_zFtJlcrdgDhETHC7fdUlXIF7pw3K7lzKEZ-OyBjhM44T1axzf33pjqMd7043zA
+Project website url
+http://34.68.134.64/
+https://www.youtube.com/embed/zhf2pKPASZU?feature=oembed&enablejsapi=1
+Docker
+Redis Server
+Django
+Celery
+Nginx
+Opencv
+NLTK
+Moviepy
+Python
+Html
+CSS
+JavaScript
+"Natural language processing,"
+"Machine learning,"
+"Image processing,"
+"Web development,"
+Python programming
+"Django Sqlite3,"
+Redis Server
+Running model on each frame of the video
+Show progress bar for the progress of the work
+For running the model on each frame of the video we have used celery it runs the model in the backend of the application
+We have used celery backend progressrecorder and updated it every time when model has detected the text from the frame of the video

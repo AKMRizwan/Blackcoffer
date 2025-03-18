@@ -1,0 +1,78 @@
+"Google Data Studio Dashboard for Marketing, ads and Traction data"
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+OverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier.
+☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealth
+"Websitehttp://www.bankiom.comCompany size2-10 employeesFounded2019SpecialtiesBanking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTech"
+Project Objective
+"Build a dashboard unifying all the platforms that we use: Google Ads, FB ads, Appsflyer, Mixpanel"
+Project Description
+"We want to be able to track everything in the funnel from traffic source to total installs (paid, organic and by channel):– App settings in Appsflyer– SDK Installation, test it (+ instruction for devs)– Ad sources setup in ad accounts (Facebook, Google Ads, etc)– Ad sources setup in Appsflyer– In-app conversions mapping– Conversion set up in ads sources– One link, smart script, and deep link setup– SKAD Network for IOS app"
+Our Solution
+"Built dashboard for each data source like Google Ads, Facebook Ads for tracking installs, channel spend, cost per install for both Android and IOS."
+"Then, we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money, user registration, connect banks. The data for these events was fetched from MixPanel."
+These dashboards were made using Google Data Studio.
+Project Deliverables
+We need to deliver dashboards for tracking the ads data from Google and Facebook and to track the events which the users perform on their app and for this data was collected from MixPanel.
+Tools used
+Following Tools were used for successful execution of the project
+Google Data Studio
+Adveronix
+Mixpanel Api
+BigQuery
+GCP
+Language/techniques used
+"Code was written to create the pipeline to fetch MixPanel data through mixpanel Api and store it in bigquery. So, the code was written in Python."
+Skills used
+Following Skills were used to complete the project
+Data Preparation
+Data Visualization
+Python
+API
+BigQuery
+Google Cloud Platform
+Databases used
+For storing the data of the project Google Sheets and Google BigQuery were used.
+Web Cloud Servers used
+Web Cloud server used in this project was Google Cloud Platform.
+What are the technical Challenges Faced during Project Execution?
+Technical Challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to Google BiqQuery. Another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio.
+How the Technical Challenges were Solved
+To solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work. Based on that we built the pipeline to connect the mixpanel data to big query. The other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named ‘Adveronix’ which could connect the facebook ads data to google sheets which can eaily be connected to data studio.
+Project Snapshots
+https://lh6.googleusercontent.com/Tyzshve8GkopbBFtx18cMJLXHnTAOFyo6EB9vp9RJiqZ0y3NnkQowzg1Y9q2DzdOmaZ5NL39Ubt_e2-s6ZuFlxzyQSph0emA_MEUVf74n0aMT_3N2qHQIilDgxly92bXEAO2_20i
+https://lh5.googleusercontent.com/_8rHQaeyA3Xb2KFlnUJ6acKmDtUFkWHE9WvwQoJ1Li9Q97Llgpqm4C-5mdlxd3zeAzVakFNCB6xSXvXslLCN8zG7WqfzZ3WAEPv00uGNpy3g-drPkDMt3kNlPFSaL3PE-UAvKCAT
+https://lh4.googleusercontent.com/DmICjrnGCZ8kMnlZ5UYXIiogLfUXWG3Q-baIufxRBfw7_MYKDstwNhY6lHTT16elqs74i0BDdYybnhzcQXiI1gH5Ddn8wCZ_aj8y6FNqvtUPo3Cz3L43el6qp83KjMh8gqB2p7Xu
+https://lh3.googleusercontent.com/N-oHwIQJOJH1W-SKNLL057-LOX0m4_GPm0V9SVWutjk6FbES8ualfo1KLM-vT975B4bXipGQoHkpbIoS4DBcMuNithhS2hkRolnHZbzsLoFf7SzZSr4vfPOuUVd9kOJxgrC6j51B
+https://lh6.googleusercontent.com/yaeZjQrHu3WJKNKAlzOW18dmh7M6Zh_S4jnAwt5bHP3MIcZx3iMa76O0EMwBYKGIxYk67NrvrtHYf_kbqOxtwea4K_WGQjxJo5JMsMTZAXKbMYdFi-Y5EYZX3Y0bG_lYZsGTCYi_
+https://lh6.googleusercontent.com/nB4OZSnLaJvxt0MtI50Ek428QeZClDsmrKozkwseAmnrIdhfFFj7Jd1xlzAvuNo2UKCberKE0UkXGOiHcGTTOS83PaWmPWkUSvIKQs5dVt2S7CgQdmNWTJEnwAqXLA_YkHqhgLXM
+https://lh3.googleusercontent.com/Z4oG7eVJzxwyDUQ0bXDMbUpQboPZQFSCniBdLFur8KRSUrerF_puuxSXbnAb59BHyEl_bwMtGN4kHDcuvrKXIBE9-e7brfLfZjSPiQMPEmXV2xMH-oFCPVO0vZG21eGiRaCLTLkP
+https://lh6.googleusercontent.com/BHwYtTO0CAvUoWqpKOpbaBEu3PvPDNPGs7WmxpzynEq-NSOAwMuGLfVf_SZJsFaiJv9fjZXcvNmZODvks_4hVvje38URV3DKeJzLRfuZlhRJ1aOBiVtFkxDCRaIhLJ7ckCg9RR_R
+https://lh4.googleusercontent.com/BpliQ1IusYEhimbsWMPg4zWd2TFYYG-gpZr3M5UYcqggXngEBTMQlBgahqTM3p9LEMXKpzKAjNXvfj3oFJfYWH-6Bh1E6H-wQr8EZaMQOTZBx4g-S7BGrQKzF8lDImDaMrSsrbWW
+https://lh4.googleusercontent.com/NnOvuYAfBmhgSDW5fhjOYncRO1OY8J19dGc3-X7o14mRRzaHjWeQW6scphu3-S1r7Pzl4Z-DNwXZQofJ1PVUayLYMcYdIHx2XdJ2LJ_UQN2pv_ZW-uguxJdmnEdv6W77RPGxwY2R
+https://lh6.googleusercontent.com/rjgypzDfOghyjTkBuUzRRczyNjXRyYMDNysMoUKcL6-539Tz4b396mWwn3lYZ7BEC4xhyrO1tsA7uludyqrPxPvXouL0sTWtDntP6Cpx9T50dNKhjGbtENOV5VXkEhG8SC5Oo3ip
+https://lh4.googleusercontent.com/VzimNMBdOyjJpDaAQDmVCCcyX--PItV46Yt3S1693JnESXvA69vZ4XHQIDJFbIrNDt9BeQnccAxklKiqNOUOcur5V_GoePy8-IMbp4cfWeUMlI2TqrZb1B7gcTyrNaThEcfg4EmF
+https://lh4.googleusercontent.com/Fp14x-FX2Yv2IsUOZtPsHuljlT25s1_u3n08Dw50ZeS8ubeqE7SEt3pmTs7C1pJqiH77gDeLF5s_zpsGRCl-vD1ZUob6z_AFz8cm4jivsq0xhdu0K2JQqAvwkn80TgcyNkhH7cy6
+https://lh3.googleusercontent.com/iohISUrW6nsN3ZtV7UiZR6WGkuabZNYt5ZfKIOpVs2bjkcj8xPfca2JEVLiaNOXGCEzHra9L0Kk9WYqyaiV1GoRK1tdjaHh0-vVqmKE72dn25RPT7L0FqQZnovxUWQ2dopJcOPNa
+https://lh6.googleusercontent.com/QpB8-bAh5ccPi1gvcPl-acSTgLBA-EmGZYWbp24QfqUNaWK9nsOcPMAKKaDVuDTS7lm3JEKr8hxFW0fY0rHRNzsY07i8I7HDDt4BjftCFalBU4-Y8tPQOlqGdCVNulQiH15tj6Mk
+https://lh3.googleusercontent.com/cE8GIrkUQ4GTpzyYZyGsZaoWZLtADOsYE9smQH2BQ50OrOPhrs9EVWnONed-NZK4FpL57KzuTLmgaCSAL7V9mJJCdvDN4rKLktak13HTfgHDX7IRWOU-4sII6FrrrELUQLyXT23O
+https://lh5.googleusercontent.com/EndTtXYbBhQDn2VH8jd1gLtgA2-UjqsIcsB4luxde5cpJZkTL6AYs9hjPs0FPaLPDE7wqzkV4PEvp5QXzgaHmbH-xrz5ikE3w-WdCdeXrMKQuvomiQKG3yCvoGBlMBIfich9Yk8f
+https://lh5.googleusercontent.com/yCWR3lD5-VMPm4aJELGtI56MVSWTCo2FC2oQTfLmj3eXYZavrNtTeBH9kzsczTtynPFtSE-uzcThYmHBMdWB5bZ9APzsnlEUhxXCs8hPBg_SgrMFr830nwo8ZiSLpvQPTJmnOXS2
+https://lh3.googleusercontent.com/Wxmk49CbLZC-SCyVYTDBy09GAdAMxFFZYP7lPFN7JOfz2nAKzmHvkoHI9aPRI_nBtCoFG_KbWB_0Imh_gZKNnEIwKTmzg-MZHvVx-LGATj8ItPWed9ZAl-NPFCnb93VTEqDEv0PV
+https://lh4.googleusercontent.com/4OLU3xvSG6heuFaYRPPD6danr97TVL9oahszSevDOWg4QVb0Fa2qPW7MwwyBjwmsan2P2sriDfIl_tSLYpaeH1rUuWv-Nb7xR2oBdSZA-USVlhxlkDTJvK6PrU5KasAxTz_8Oljj
+Project website url
+https://datastudio.google.com/reporting/8af163c1-b328-4ed3-91fc-cf8a026d0d9f
+Project Video
+https://www.youtube.com/embed/dgJy-yKy7aI?feature=oembed&enablejsapi=1
+Google Data Studio
+Adveronix
+Mixpanel Api
+BigQuery
+GCP
+Data Preparation
+Data Visualization
+Python
+API
+BigQuery
+Google Cloud Platform

@@ -1,0 +1,71 @@
+Real-time dashboard to monitor infrastructure activity and Machines
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading tech firm in Europe
+Industry Type:  IT
+Services: Software Services
+Organization Size: 30+
+Project Objective
+"For the current project, we hope to develop a real-time dashboard (* it updates every several minutes). Currently, we have multiple Ubuntu machines that are sending messages every minute to Apache Pulsar."
+Project Description
+Developing a realtime updating dashboard to display the metadata of various machines on a server from pandio queue.
+"The dahboard must display the count of “inactive” , “active” and “down” servers with a table displaying the details of all the machines in different color scheme for each type of server/machine."
+Our Solution
+We used Django framework to develop the dashboard as it didn’t require the ec2 instance to be active on machine which was the problem with using streamlit.
+For communication between webpage and fetched data we used django channel .
+We used django background task module to make the fetching run forever in background.
+Project Deliverables
+Real time updating Dashboard with separate color scheme for different types of machines.
+Storing the historical data in sqlite3 db.
+Tools used
+Django
+Web Channels
+D3 js
+Reddis server
+Skills used
+Python
+Django Framework
+Django web channels
+HTML/CSS + JS
+Databases used
+Django sqlite3 database.
+Web Cloud Servers used
+AWS
+What are the technical Challenges Faced during Project Execution
+Making the dashboard run forever using streamlit
+Data updation in realtime when using django channels
+How the Technical Challenges were Solved
+Switched the entire dashboard to django framework
+We redirected data to channels on local reddis server.
+Project Snapshots
+https://lh4.googleusercontent.com/VNW_0azlAECa9WkM8ywGBG4uYUOtS74eZw0rsIoZ-a8i4mkL-M2nXuMqMfD3JbK1R7i3y_xrz7HQspTSaKNxiFmSvRbG713Uxp5-lfknXXj9qujKviXLXGGXfP1QPfhGZbnwwQzo
+https://lh6.googleusercontent.com/97wVzVOmkhoYd-peXemU_CjaoaAEBAkI1Yx3gsMDTNHf4dV9T94S38GJnpbwM9h9XZW88Np8-qiUxIiH50IaYyMbkE0PmlmWKtIXiP8hF3YiKUraDP4nBqrVwYQOhriJFCEE3d5j
+https://lh6.googleusercontent.com/Wuw7Ud-zXwL9ujO84EP_VdOJfwUbixYKBW9mwD43FUYd6QKwK3sQFurL1fJyJuPQh0X2CL7kLdlV1UfnEVJZIT2Y-VcEuobkbsVxQ8mC-Puzwrfv_o1JnrgbaIbZ-VB1YhlTOOiq
+https://lh6.googleusercontent.com/QJEoYloDFcSIp4wZV8fOQdZyAWwOmKcG9kW4TYms08Yc9wzfQwiAZLcSun4Sg7z98CAvMc_g9LoCs6t7QoI9Xv80mygRA0XlnK6arJPmsMaLybiLXRneUiegc04odFZD-YBk5ECO
+https://lh3.googleusercontent.com/zSOn0j2jPxVR5uMWgl5Qep-JQ1TbcSugcPmd8YQA1oLTGEBsnOzmb14TVLHkdlLS8_iW-HbnDWHGZEmt8-KQAxCHUUEUml_EbFE1Ol1M6Bk--1BXah9cMunBKo4fWxeAhl3b1374
+https://lh6.googleusercontent.com/7aAchMgtrBQvaExBDw2ENqQEvSMETYDBgUzoaRJTtp6EufiAf83IVm8yiAFyzoDXGozjxWrQsW9P6_tXx4GJbe21-dSjsHTpzFktNIb-Puk-CCOHOtAWAIX4JoV20QJ9Dh9nyo_8
+https://lh5.googleusercontent.com/tBxbctR-Y041dgskisbqlGAzsthXe4HTvkvV1o5wdSLOLuBLw83MKEZUY8uDmkb-bWcf-i36bre3oKJIgwWamUx-PfH6oU0qRMNiGgUJF1gdBXdGbJHEMGqsY23r2P50dm8yLUFn
+https://lh3.googleusercontent.com/4BbykhPXCBm6KZ91PwLamyWFkfzy9R0SeTSQqXrZwijakFx4AL3WmmPn3MehZKNCfHGJKZzzFxDATh-KN_zBK_iLwHQQKEIM50qslU9VeqSYXzCPtPB96UIMs-368uA9KSTN3IYZ
+https://lh6.googleusercontent.com/tbdrwXE64LXa1OfXCsWXY8gwjZMWZnRZFPa8NVzjaBC6w8vNo1AJ6_NnMMa1VQfOPyieA9gOrStHPmoUXVpRreLaWEnHDoLybIgSegMhA15wEBwELptpBcY6l2soaq9e85ii7OHM
+Project website url
+Development hosted URL
+We used Django framework to develop the dashboard as it didn’t require the ec2 instance to be active on machine which was the problem with using streamlit.
+For communication between webpage and fetched data we used django channel .
+We used django background task module to make the fetching run forever in background.
+Real time updating Dashboard with separate color scheme for different types of machines.
+Storing the historical data in sqlite3 db.
+Django
+Web Channels
+D3 js
+Reddis server
+Python
+Django Framework
+Django web channels
+HTML/CSS + JS
+Django sqlite3 database.
+AWS
+Making the dashboard run forever using streamlit
+Data updation in realtime when using django channels
+Switched the entire dashboard to django framework
+We redirected data to channels on local reddis server.

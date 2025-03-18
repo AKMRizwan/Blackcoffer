@@ -1,0 +1,74 @@
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy
+Ajay Bidyarthy
+"March 13, 2025"
+Client Background
+Client: A leading IT & tech firm in the USA
+Industry Type: IT
+"Products & Services: IT Consulting, IT Support, SaaS, Marketing Strategy"
+Organization Size: 10+
+The Problem
+"Building AI and ML based YouTube analytics and content creation tool that will help youtuber to understand their subscriber’s watching behaviour, help them in content research, creation and publication."
+Our Solution
+"Created a MERN stack web application and integrated AI models to helps youtuber to generated titles, descriptions, tags, hashtags, captions etc. Help them to check thumbnail quality, analysis on the videos using video auditor tool, analysis on comments using sentiments analysis, help to under their subscribers using churn predication AI model."
+Solution Architecture
+https://www.figma.com/file/WQs01mmmNBZ1SjNE2IV8Sl/Youtube-Web-App-By-SHiV?type=design&node-id=0-1&mode=design&t=Lh2jRx4bGQq6l4WU-0
+Deliverables
+Web Applications
+Supports
+Maintenance
+Feature Enhancement
+Tech Stack
+Tools used
+VS code
+Language/techniques used
+React.js
+Express.js
+Node.js
+Python
+Models used
+Python libraries
+Skills used
+Data scientise
+Full Stack developer
+Databases used
+MongoDB
+Web Cloud Servers used
+Google Cloud Platform
+Project Snapshots
+Home Page
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2ixbhxa9nmOLvK6IRUe2hCYuygEyHZX6HaQvY9n7p641hG-YXHWnbez2IK8PjQN0Q8Yqt6Zuj544BMQ-G78NpW1YLythdmpSWOdwq18I30Q-jMQKE71D_gB4nmqH5C6Meryy67TxbGUDfCg1QxBbnwSU9fWJ8gMgzMlZdP7yGwDfmHtkGJQ?key=nw6qCUnBzZvFnalcA1s0Xw
+Tool Page
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdI2EttaSqR9rKm3y_ZtSZyezyuecOIh6qzq87I2FKwLsHR76p-JqY5UHEKCHOfXy0wWH6JQDttGEBk-iO0BmhDu5vU1LzdFHGks9KbFPOudpj2khdIWMzwvaOSJNivcWuLrC3honIrUSeTpW_PRtTeN_H9kVSjosrzFdxm2OSACy_yRuWe2c?key=nw6qCUnBzZvFnalcA1s0Xw
+Dashboard
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7JzUNVgb7oz--GYvzkXbBXdR5XRFWbsNJCOm1NZqU4zuQJzNJTnVIOSrv_r8Eto9C2rAbgXyUvZYhWHJjtgAlM94M2IViAyEANDyRQEh5wFMz7B7VSi9qZMCasw5CEua8GFlhthCC7V3atnELDzze19OCMHMC9uwXxmWQMmhjy1BZkdEKmJw?key=nw6qCUnBzZvFnalcA1s0Xw
+Blog Page
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdEi40txiRSzf7rHGpizlUoSyiplBIpo8Kj6qaieDCwz_EZ-TJN7wWU1WoCkHCVDUMJepvFo7v_AQMfPpJPPjJuON5gCmg8jXXY9AbERA_N4huOE4rrEM4VQMPw9ieROykec_ahxOrZwxdHAPbe6BToRtGkb0whs40luFZZ-hFO3yUa_0JO-U?key=nw6qCUnBzZvFnalcA1s0Xw
+Single Blog Post
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXek0U4b-sfHbzqPd1G400XZJhgs51mzsUlTSii-b_HX8SS-jMa4csJDgL1a5U6OTr5EF2TzW44b5PAmNf75SCpaON6fHYzuOlT1UGTfxhDGANzsSy_796WcWlR7GqmzoDSgQXXP6hbSwcEKgAJ-MB0bn1PyWOIHxf0evLQhRN2iCRZr8KwRjo4?key=nw6qCUnBzZvFnalcA1s0Xw
+About Us
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjvz6yjOnMxP12iZ3TeZVjXN1BZUdSmccNBtm08AUt3uBhJzqKmKr1qlm5bPvROU-B1r54oEzxUOoSKP3GtQI-H5SkFrNUj-xPClkWp9dHnjOz5Faq4qofZ8xbGrs1CO5_ZiKnoD0edHzyKUrTG8wQf0pn1M6qtdDoz_u2LRDdlKzVFnrg_TY?key=nw6qCUnBzZvFnalcA1s0Xw
+Contact Us
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXe651sNb4JAERsm4qHl-XIgOv3UTUGvdlia7KYal2WGVWocZBoH3EjZy1pRmTaSvIrXRntSl3i5s-gGGgT_SoLTqkqvChVP_hpYKBA3R9DHYkMraplBmx2CnnK4GfHNcth18ZECtsp_CRNtpRabsm7Y6oR9iMBQVs8CmtvvECFn4ALoAWQ69g?key=nw6qCUnBzZvFnalcA1s0Xw
+Login Page
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXeb8mgKZuM6kOH2Ciu7SwaTGjGm4eI3DF-EkGCChy2avXC7aIBRcpFFHms6XDkdI0UVJlSKNzo8QTj4GHCYruvHo0frzmlyF3BGQYrZ-OspGe3UUvQVPtcyzu3Pk2LzVXOX-pFdt9j97Ne7GaZMF0EyxBkBPJJSi95tlxb35CHDlu1LqnrQoCI?key=nw6qCUnBzZvFnalcA1s0Xw
+Title and Description tool Page
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZ_oT5g4icVpf5CsR8xiEBPUyPEK4u3KRfrhM6OeVsg4IQAUDHZDIGUuVHeJvYbsX-zkWLKiFkP68r-aTNgQWgzm7cr6_ZHcrRAj_ss0DiCT2cTWh2EH5PcQhWTij_cwoS1K53iKJYsfNTBDIE8ry_82RdJFpHOCCQQvLokkoGq6hI4JKwRJ0?key=nw6qCUnBzZvFnalcA1s0Xw
+Thumbnail Quality check tool
+https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSeUfluXaFHH-MoDTv16SmqsOBvMb0Bx5FH6ES77A0SR1FlnYCXFzd_i8TQ-2Q_IPDeTpc26OP5hbF3LxOlMSjUF9TOiLXG1TwjffzFYtYgOgdeSPTN6tTgGUcSZQk5-LjLaawGM-I4teHmuYpiy5kOQhbpzC23TOIgb9p5JjO2mo_krKvHPM?key=nw6qCUnBzZvFnalcA1s0Xw
+Project website url
+https://tubetool.ai
+Summarize
+Summarized: https://blackcoffer.com/
+"This project was done by the Blackcoffer Team, a Global IT Consulting firm."
+Contact Details
+"This solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy"
+Home Page
+Tool Page
+Dashboard
+Blog Page
+Single Blog Post
+About Us
+Contact Us
+Login Page
+Title and Description tool Page
+Thumbnail Quality check tool

@@ -1,0 +1,73 @@
+Microsoft Azure chatbot with LUIS (Language Understanding)
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+Client: A leading retail firm in the USA
+Industry Type:  Retail
+"Services: e-commerce, retail business"
+Organization Size: 100+
+Project Objective
+To create an advanced chatbot using Microsoft Azure cognitive service to take orders from customer on behalf of a pizza restaurant and give order summary as end result to the user.
+Project Description
+The project uses MS Azure LUIS service for language understanding to receive order details from a customer and provide an order summary. Also display various menu options to the customer in a dynamic method.
+Our Solution
+Our solution is to create a chatbot on MS Azure platform using their LUIS service in bot-framework composer environment. Use dynamic hero cards to display menu so that user can get a better experience.
+Project Deliverables
+Chatbot
+Tools used
+Bot Framework composer
+Bot emulator
+MS Azure LUIS services
+Language/techniques used
+Bot framework composer
+Natural language processing
+Models used
+MS Azure LUIS
+MS Azure QnA
+MS Azure speed SDK
+Skills used
+Deep learning
+Web development
+Cloud tech
+Web Cloud Servers used
+Microsoft Azure web platform
+What are the technical Challenges Faced during Project Execution
+Monthly quota for LUIS authoring service was reached
+Tracking multiple items ordered by user
+Accessing relevant images for each menu item
+How the Technical Challenges were Solved
+Switching to a more suitable pricing tier which would have to eventually switch to when move onto production phase
+Creating custom functions and intents for different trackers
+Using open license images from internet
+Project Snapshots
+https://lh5.googleusercontent.com/BDD4Ds6vo96DScNOwB0FNp2j6irmeHE1yXXGBhBHTU11nVIaMQH7vyJk2BfpXDGWem73Y6IdcleHGk_iRymXW1Se9NTPBlNgLAdUQgZO48cg-tfftSt2fjKdoZ7BxeAKefEpSiWC
+https://lh5.googleusercontent.com/u3SnHkRwPu6yy6tiZMa-ClLul9C38FhTMttXbVmfStXLjnDD6mzVJSBN07JLvc4-_DfkRagCBXMY1SqtyX437TO0mzLWcx5UWIXcTlvGtBJie-lqBigOqUOaN_w0NiGL01NATi04
+https://lh4.googleusercontent.com/S_FA1AHwuFG16mVgc8DjHBXyE65U7dsK7A8Y_5htTcYpnDvnqPSMOq1HNnb4M7vp93m2huRwxASjKXFxEB0xKDdNSj2TX79pm0utsvIzVxjBfPjaHpQqwk1qDgewVY1mkdvwQXoB
+https://lh3.googleusercontent.com/Gv1KHnzjmOwLft3-AkSN_gR0KG8_A02kLxfLxn9vTVBrH7BFfu7bma8j-N9JCaXEqq0632LksKRacsXykJDc_PG4GPjhaFXQEw9vMxWVk4BfRBk0e87ybXK0bEI2H86u3JiJtF0g
+https://lh5.googleusercontent.com/6JGUCTbbn2kcRf1KLmpu-7PEayGS38d4NMFb8f47jRygWIyc-pHnuAElPj3u6HTCMHH6k01pQYHvQd0510ZQvq6PY0mLC0gKW7rx4E1vRdTLpY3CtDKw8CVwePIAwTHr2iS8RVbL
+https://lh4.googleusercontent.com/RB899fi8e9c2SIt-cKDDVGSNnwsK7EDpDWAv-y7nNrEhk00dv_vQzvcZeNLYCKg5eOE0x-00adXkKvKAspCQsWcSYq3j-gBJ8xYp-ZcXg4kY7RcCVk0iY2bIHKbuxu82xs5_nhrm
+https://lh5.googleusercontent.com/ai9gFRxOhHrMftdhmSmP6txljvj7P0Ug2zMZgNuUG8yT0MFfD48Tx39sNbO0wI3yIm7vCDTCHrc7tfVehfyN0qhPC0idpwEypH3e_C8PiTG5Wtu2exAfX2k6muaLfTvVUI8V30eh
+https://lh5.googleusercontent.com/BOQ_YU8twTju6YSqmF0GT6nn5sETRpsdOHSvuuGAGmjRM9m27EoheUZGM_bBVYhzSgapvHH_lMCofv07KX18hxqAbwN9Yzm-w2i8Jv9e1QbhJCJrEx9imMqKZWUFEJRPKtCEKNhQ
+https://lh4.googleusercontent.com/Q9dwhe0-DiOI_PZG6H99_Fy5XEkw5P4wmkNyjYh1TkFWSl2aGxSV8hWE8hFz2OP55ANzw7lIGM1MQle0kpkGsYWhxrEGo-kt0QIQxkFCYHF_2iiDN4MNs0-Nr-5SA4hfbHsxNWYo
+https://lh5.googleusercontent.com/OyKJQ4NqxpNOtNerp5Lt25j7L4jSO8CvUUAZ69TlKOa3jA-KZagj0ccn2F5AizXSKEOfy0VvibNmiOsHcxpCtTVOBoZ9gfGwRnIQhAW5DN93oSv8wod-njqaIUoCoJwQ6at92V6_
+Project website url Demo
+https://www.youtube.com/embed/yoglDeKtzJo?feature=oembed&enablejsapi=1
+""
+Chatbot
+Bot Framework composer
+Bot emulator
+MS Azure LUIS services
+Bot framework composer
+Natural language processing
+MS Azure LUIS
+MS Azure QnA
+MS Azure speed SDK
+Deep learning
+Web development
+Cloud tech
+Monthly quota for LUIS authoring service was reached
+Tracking multiple items ordered by user
+Accessing relevant images for each menu item
+Switching to a more suitable pricing tier which would have to eventually switch to when move onto production phase
+Creating custom functions and intents for different trackers
+Using open license images from internet

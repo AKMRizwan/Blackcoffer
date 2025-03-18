@@ -1,0 +1,105 @@
+AWS QuickSight Reporting Dashboard
+Ajay Bidyarthy
+"October 24, 2024"
+Client Background
+"OverviewAs a Singapore and Australia based startup, Drive lah (known as Drive mate in Australia) is a peer-to-peer car sharing platform where you can rent a large variety of cars, always nearby at great value. All trips on Drive lah are comprehensively insured through our insurance partners so car owners don’t have to worry about their insurance. The idea is simple: car ownership is expensive in Singapore (per month yet only use the car 5% of the time – cars are mostly parked. With Drive lah you can reduce the cost of ownership by renting it out when you don’t need it in a safe way. Renters can rent those cars when they are not used by their owners at good value.In a fast-growing non-ownership economy where taxi, food, beauty is available on-demand, Drive lah is envisioning to take the lead in distance travel and simplifying car access"
+Websitehttp://www.drivelah.sgCompany size11-50 employeesFounded2019
+Project Objective
+Automating the process to get updated Metrics every week.
+Evaluate the following Performance Metrics which will be used on AWS Quick Sight for Performance Evaluations:
+Total Cancellations
+Cancellations by Host
+Weekly Guest Success Rate.
+Monthly Active User’s {MAUs}
+Monthly Active Listings {MALs}
+Total Approved & Live Listings
+Approved & Live InstantBookings
+Approved & Live Dl Go
+Delivery Booking Listings
+Weekly Active Listings {WALs}
+Successful HDM
+Unsuccessful HDM
+Booking Acceptance Rate
+Total Requested Trips
+New Listings Made Live
+Percentage of Live Listings Made Active
+Map Location Metrics Table with Postal Districts.
+DL Live Cars & DL L3M Active Cars
+Host Experience Team Weekly Dashboard
+New Weekly Listings Dashboard
+Two Transaction Metrics
+Build Code for extracting Daily Agent Activity Report on Daily Basis.
+Our Solution
+"For Performance Metrics, we suggested that we will Code for each Metric & will store them in a Table on AWS RDS which will be directly synced to the AWS Quick Sight for Performance Evaluations."
+"For Automating the process to get updated Tables of Metrics every week, we suggested to use a Virtual Machine on which we can upload all code files & can run a Cron Job for each file to automatically get updated on specified time every week."
+Tools used
+Jupyter Notebook
+PyCharm
+MySQL Workbench
+AWS Quicksight
+Language used
+Python
+Database Used
+Amazon Relational Database Service (RDS)
+What are the technical Challenges Faced during Project Execution?
+Tried with AWS Lambda Function to update tables on AWS RDS but Lambda Function was unable to run complete code.
+How the Technical Challenges Were Solved?
+Suggested to use a Virtual Machine on which we can upload our Code Files & can run Cron Job for automatically updating tables on regularly basis.
+Project Snapshots
+Metrics from Listings Table:
+https://lh6.googleusercontent.com/mrRyp8xvfux5-v0nGf-d5c7HsQbl_U8TnInVU1PB-Fmth3JuahMftyZL9VvjhYdsyLqZ8hLsKATTPZx306_1sTXnZH7Xej5Akk0d_LFWixS7tBynzPxrdpxBdFkw2D2Drr2tM9E1
+Host Experience Metric:
+https://lh4.googleusercontent.com/-FG_iqbkYukuIIjoBkSQOzgbG1tpUG31PFcbd_0WxdeWLrdsAPXy3cWsX7daG2Yb79bJLfR3mNvTswNvlpCsN9afFgxatRJWQuEGp1mkI12Cpfp7pGrKkzm02mNwh-d96EjyDJKX
+New Live Listings of Last 7 Days:
+https://lh4.googleusercontent.com/xUPgzcfFxgrZVbgWIBxfd5CRpu-GgD0MXmLa4_HqueV77uxhacqPhbYYwC3m_wFD6WH2NNslCgJFpgrqvauKTO2pY7x4f7CeNtoTIbzMtzSJtv-4-TMtZ5DgndP4y3vjEUPsnRvx
+Line Chart of Total Cancellations & Cancellations by Host:
+https://lh4.googleusercontent.com/vHqzTblzbApMP1Hds7VZGwh4zRJUB-pjynVmR67-0xa_XoF_yomQofdkXYYM1fQPKckwHOVcTpeJ__yOGvrygFfvHi6SUTJ19FAR1PprJ73eJU-2cf7hjdKg_Izsua-NVj8cLZ1m
+Line Chart of Monthly Active Users (MAU’s):
+https://lh6.googleusercontent.com/czDIJdbJ2TSmpLd6TgR7ahulEHUxhuYUhImzD_Cb_fM7RYacbD_IdB2W354678FktQXGhyYDKbsv_jlsnFu7FZ_TsGC47Oz14LNWXfO-f8aXt62fX6IZW_QFB-dmpCg_TEZrtZhx
+Area Chart of Percentage of Live Listings Made Active:
+https://lh4.googleusercontent.com/EqNi9l8jGiEQo2q70AAP0xQJBVO86T5X4YrLWDo0xZDP-h12F8dfslncGLk7uJlWJ8D6JYFifZvB92qi-neJPJV4vJLbZQ9-oeg9jBExzitt4720-pajw6JUNiGtladWfg9sg-2z
+Line Chart of Number of DL GO Listings & Number of Instant Booking Listings:
+https://lh6.googleusercontent.com/cIYR9ku6BnbTF0vQoH_Loub_neJdb7DXdzE7fXNLxNciluDKL4VV8sm5iCLoICdoksc9mdwrdJHRvjTc0I-0JFcQzj7JDwm8kkAnp2t3wNSXFe27jgOhxHldi6Yt8YcyP-gPh5nz
+Line Chart of Monthly Active Listings (MAL’s):
+https://lh5.googleusercontent.com/CZxEzi0kkv5NLRsFRJcppjS20pRYKhhTfYGl4-U42XQEqYOoks7J2ylLiV0zuN3IZmJoKN6fZS0ATN2ejEB5fUIfL2_Az5D_jQ0IVqEEXjoqqXovzz1VQjEOl9LjwZWmdAWj6PVm
+Line Chart of New Listings Made Live:
+https://lh4.googleusercontent.com/2DykNar8d0SS0M0PlJUT3U6NM0wr19sJXrdhO3XCKY42qJsOqQAnkgYdi5_KyM56VG0xXlkcSgMGv0xV5PU0BHtHZMo_1G1ClqsrKlerlvD7d6KNgpP0eWB3ErxTVZrzONeSKt_k
+Vertical Bar Chart of Total Approved & Live Listings:
+https://lh6.googleusercontent.com/msZawF-tXkIhwi8yLBdw4avg8QCHIFJVOTkaEfWJUOp-C3ehNWLv4YHz5KKKwS5Ch3A1gwyiGK6S1gJ62aigUB6y8XmNebT5fk19SLSZTq8wrFvOyGAoydd144cW-4znW72v0uZ9
+Project Video Link
+https://www.youtube.com/embed/dWTOgxjxy84?feature=oembed&enablejsapi=1
+Total Cancellations
+Cancellations by Host
+Weekly Guest Success Rate.
+Monthly Active User’s {MAUs}
+Monthly Active Listings {MALs}
+Total Approved & Live Listings
+Approved & Live InstantBookings
+Approved & Live Dl Go
+Delivery Booking Listings
+Weekly Active Listings {WALs}
+Successful HDM
+Unsuccessful HDM
+Booking Acceptance Rate
+Total Requested Trips
+New Listings Made Live
+Percentage of Live Listings Made Active
+Map Location Metrics Table with Postal Districts.
+DL Live Cars & DL L3M Active Cars
+Host Experience Team Weekly Dashboard
+New Weekly Listings Dashboard
+Two Transaction Metrics
+Jupyter Notebook
+PyCharm
+MySQL Workbench
+AWS Quicksight
+Metrics from Listings Table:
+Host Experience Metric:
+New Live Listings of Last 7 Days:
+Line Chart of Total Cancellations & Cancellations by Host:
+Line Chart of Monthly Active Users (MAU’s):
+Area Chart of Percentage of Live Listings Made Active:
+Line Chart of Number of DL GO Listings & Number of Instant Booking Listings:
+Line Chart of Monthly Active Listings (MAL’s):
+Line Chart of New Listings Made Live:
+Vertical Bar Chart of Total Approved & Live Listings:
